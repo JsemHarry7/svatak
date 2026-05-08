@@ -1,0 +1,14 @@
+C:\_dev\_svatak\_practice\dat10-podprogramy\bin\Debug\net9.0\dat10-podprogramy.exe
+C:\_dev\_svatak\_practice\dat10-podprogramy\bin\Debug\net9.0\dat10-podprogramy.deps.json
+C:\_dev\_svatak\_practice\dat10-podprogramy\bin\Debug\net9.0\dat10-podprogramy.runtimeconfig.json
+C:\_dev\_svatak\_practice\dat10-podprogramy\bin\Debug\net9.0\dat10-podprogramy.dll
+C:\_dev\_svatak\_practice\dat10-podprogramy\bin\Debug\net9.0\dat10-podprogramy.pdb
+C:\_dev\_svatak\_practice\dat10-podprogramy\obj\Debug\net9.0\dat10-podprogramy.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\_svatak\_practice\dat10-podprogramy\obj\Debug\net9.0\dat10-podprogramy.AssemblyInfoInputs.cache
+C:\_dev\_svatak\_practice\dat10-podprogramy\obj\Debug\net9.0\dat10-podprogramy.AssemblyInfo.cs
+C:\_dev\_svatak\_practice\dat10-podprogramy\obj\Debug\net9.0\dat10-podprogramy.csproj.CoreCompileInputs.cache
+C:\_dev\_svatak\_practice\dat10-podprogramy\obj\Debug\net9.0\dat10-podprogramy.dll
+C:\_dev\_svatak\_practice\dat10-podprogramy\obj\Debug\net9.0\refint\dat10-podprogramy.dll
+C:\_dev\_svatak\_practice\dat10-podprogramy\obj\Debug\net9.0\dat10-podprogramy.pdb
+C:\_dev\_svatak\_practice\dat10-podprogramy\obj\Debug\net9.0\dat10-podprogramy.genruntimeconfig.cache
+C:\_dev\_svatak\_practice\dat10-podprogramy\obj\Debug\net9.0\ref\dat10-podprogramy.dll

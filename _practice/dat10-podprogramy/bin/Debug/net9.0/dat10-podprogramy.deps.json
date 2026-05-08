@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "dat10-podprogramy/1.0.0": {
+        "runtime": {
+          "dat10-podprogramy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dat10-podprogramy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+# 24 • Stromové struktury, spojové seznamy
+
+- datové struktury
+- reference na další prvky
+- linkedlist - spojový seznam
+    - mnozina prvku co ma vzdy odkaz na dalsi prvek
+    - vlastne rekurzivni ale neni
+    - pres reference ale
+    - optimalizovana na vkladani , manipulace s objektama
+    - neni moc dobra na prohledavani
+    - tam, kde potrebujeme veci prerovnavat, odebirat
+    - manipulovat musime jen s odkazama (reference na dalsi prvky)
+    - pridani prvku mezi dva existujici znamena jen prehozeni odkazu na n-1 a nastaveni odkazu na n na n+1
+    - smazani - n-1 nastavit link na n+1
+    - struktura opravdu spatna - neni moznost pristupu pres index - opravdu nejde
+    - prohledavani proste pres pocet prvku
+    - vyjimecne pomaly prohledavani
+    - nejhorsi operace je prerovnani, nebo otoceni zpatky
+    - hodi se vzdycky pamatovat si ukazatel na posledni prvek
+    - nebo ukazatele na segmenty seznamu (pismenka a - jeden odkaz; pismenko b - druhej odkaz)
+    - jednosmerny spojovy seznam
+    - existuje jeste obousmerny, kde je odkaz vzdy dopredu a dozadu
+    - ten se hezky prochazi ale musime znat zacatek a konec
+- přidat prvek dovnitř pole znamená masivní operace s pamětí, kopie, alokace paměti
+- binary tree - binární strom
+    - stromy - struktura
+    - rozhodovací stromy
+    - kořen, má větve, na konci rozhodovací prvky - to jsou listy
+    - binary search tree je specifickej v tom, ze ma vzdy max dve vetve
+    - tahle datova struktura je optimalizovana na vyhledavani
+    - silene pomaly zarazovani prvku
+    - zoufale pomaly organizovani
+    - hrozne rychyl vyhledavani
+    - O(log n) prohledavani
+    - nejhorsi co se muze stat - prijde rada 123456
+        - hrozne velka hloubka - probiha volba korenu - nekde uprostred a strom preformatuju
+        - volba pivota neni trivialni zalezitost, bere se to az na vejsce
+    - u tyhle otazky malujte jako diví
