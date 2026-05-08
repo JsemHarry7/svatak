@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "dat10-validace/1.0.0": {
+        "runtime": {
+          "dat10-validace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dat10-validace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

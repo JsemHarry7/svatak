@@ -1,0 +1,15 @@
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\bin\Debug\net10.0\dat10-validace.exe
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\bin\Debug\net10.0\dat10-validace.deps.json
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\bin\Debug\net10.0\dat10-validace.runtimeconfig.json
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\bin\Debug\net10.0\dat10-validace.dll
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\bin\Debug\net10.0\dat10-validace.pdb
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\dat10-validace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\dat10-validace.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\dat10-validace.AssemblyInfo.cs
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\dat10-validace.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\dat10-validace.sourcelink.json
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\dat10-validace.dll
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\refint\dat10-validace.dll
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\dat10-validace.pdb
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\dat10-validace.genruntimeconfig.cache
+C:\Users\harry\source\repos\svatak\_practice\dat10-validace\obj\Debug\net10.0\ref\dat10-validace.dll

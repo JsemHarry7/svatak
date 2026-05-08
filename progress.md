@@ -10,7 +10,7 @@ Sebehodnocení: 1–10 (1 = vidím poprvé, 10 = vysvětlím komukoli)
 | # | Téma | Sebehodn. (před) | Sebehodn. (po) | Status | Poslední revize | Poznámka |
 |---|------|---|---|---|---|---|
 | 1 | Diagramy UML | 4 |  | ❌ |  |  |
-| 2 | Algoritmus | 3 | 7 | 🟡 | 2026-05-08 | Znalost OK, výklad vynechal sekci "zápis". Drilovat checklist sekcí. |
+| 2 | Algoritmus | 3 | 7 | 🟡 | 2026-05-08 (2× drill) | Zápis algoritmu po druhém drillu solid (formy + symboly flowchartu). Slabé: Big O — neříkat "nejvyšší" pro O(n²); nemíchat osu Big O s best/worst case. Doladit definice: determinovanost = jednoznačnost **kroků** (ne výstupu), efektivita = "v rozumném čase" (ne "nejefektivnějším způsobem"). |
 | 3 | Reprezentace dat | 4 |  | ❌ |  |  |
 | 4 | Datové typy, proměnné | 5 |  | ❌ |  |  |
 | 5 | Návrhové vzory | 2 |  | ❌ |  |  |
@@ -50,7 +50,7 @@ Sebehodnocení: 1–10 (1 = vidím poprvé, 10 = vysvětlím komukoli)
 | 7 | Tabulky v HTML | 5 |  | ❌ |  |  |
 | 8 | Datové typy a pole | 2 |  | ❌ |  |  |
 | 9 | Spojové struktury, stromy | 1 |  | ❌ |  |  |
-| 10 | Podprogramy a lambda | 2 | 8 | ✅ | 2026-05-08 | Praktický test 30 min zvládl s drobnou opravou. Pamatovat: SoucetCifer dělení / 10 vede k 0. |
+| 10 | Podprogramy a lambda | 2 | 8 | ✅ | 2026-05-08 (2× drill + 2× praxe) | 2 praktické úlohy (SoucetCifer; TryNacti+PridejValidni+Spocitej — `out` z producent i konzument strany, HOF s lambdou). Ref-type passing pochopeno přes metaforu lístku/domu: **mutace** objektu prosakuje ven (`Add`), **přepsání** reference ne (`= new List`) — to by chtělo `ref`. Drobnosti k zapamatování: čistší if syntax (bez `== true`), funkce vs procedura — obě mají parametry, rozdíl je v návratové hodnotě; scope funkční = celé tělo funkce (ne parametr); v odpovědi o lambdě vždy doplnit konkrétní příklad (LINQ Where). |
 | 11 | Kolekce | 3 |  | ❌ |  |  |
 | 12 | Souborový systém + streamy | 4 |  | ❌ |  |  |
 | 13 | Paralelní/async programování | 1 |  | ❌ |  |  |
