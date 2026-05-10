@@ -1,0 +1,72 @@
+/*
+  Flexbox řešení modulů 1-5
+  Doplňte CSS vlastnosti pro každý modul podle zadání v README.md
+*/
+
+/* Modul 1: Horizontální navigační panel */
+.main-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.actions {
+  margin-left: auto;
+}
+
+/* Modul 2: Hlavní upoutávka (centrování) */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+}
+
+/* Modul 3: Responzivní produktová galerie */
+.gallery-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.product-card {
+  flex-grow: 1;
+  flex-basis: 250px;
+}
+
+/* Modul 4: Srovnávací cenové karty */
+.pricing {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.plan-card {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 250px;
+}
+
+.buy-btn {
+  margin-top: auto;
+}
+
+/* Modul 5: Media objekt typu "Komentář" */
+.media-object {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.avatar {
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+}
+
+.comment-body {
+  flex-grow: 1;
+  min-width: 0;
+}

@@ -1,0 +1,15 @@
+C:\_dev\_svatak\_practice\dat08-pole-typy\bin\Debug\net9.0\dat08-pole-typy.exe
+C:\_dev\_svatak\_practice\dat08-pole-typy\bin\Debug\net9.0\dat08-pole-typy.deps.json
+C:\_dev\_svatak\_practice\dat08-pole-typy\bin\Debug\net9.0\dat08-pole-typy.runtimeconfig.json
+C:\_dev\_svatak\_practice\dat08-pole-typy\bin\Debug\net9.0\dat08-pole-typy.dll
+C:\_dev\_svatak\_practice\dat08-pole-typy\bin\Debug\net9.0\dat08-pole-typy.pdb
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\dat08-pole-typy.GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\dat08-pole-typy.AssemblyInfoInputs.cache
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\dat08-pole-typy.AssemblyInfo.cs
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\dat08-pole-typy.csproj.CoreCompileInputs.cache
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\dat08-pole-typy.sourcelink.json
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\dat08-pole-typy.dll
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\refint\dat08-pole-typy.dll
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\dat08-pole-typy.pdb
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\dat08-pole-typy.genruntimeconfig.cache
+C:\_dev\_svatak\_practice\dat08-pole-typy\obj\Debug\net9.0\ref\dat08-pole-typy.dll

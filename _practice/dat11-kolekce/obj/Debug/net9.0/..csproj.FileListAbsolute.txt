@@ -1,0 +1,15 @@
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\..GeneratedMSBuildEditorConfig.editorconfig
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\..AssemblyInfoInputs.cache
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\..AssemblyInfo.cs
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\..csproj.CoreCompileInputs.cache
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\..sourcelink.json
+C:\_dev\_svatak\_practice\dat11-kolekce\bin\Debug\net9.0\..exe
+C:\_dev\_svatak\_practice\dat11-kolekce\bin\Debug\net9.0\..deps.json
+C:\_dev\_svatak\_practice\dat11-kolekce\bin\Debug\net9.0\..runtimeconfig.json
+C:\_dev\_svatak\_practice\dat11-kolekce\bin\Debug\net9.0\..dll
+C:\_dev\_svatak\_practice\dat11-kolekce\bin\Debug\net9.0\..pdb
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\..dll
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\refint\..dll
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\..pdb
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\..genruntimeconfig.cache
+C:\_dev\_svatak\_practice\dat11-kolekce\obj\Debug\net9.0\ref\..dll

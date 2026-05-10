@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Můj první HTML dokument</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Harry Deimling</h1>
+      <nav>
+        <ul>
+          <li><a href="#co-umim">Co umím</a></li>
+          <li><a href="#postup">Postup</a></li>
+          <li><a href="#odkazy">Odkazy</a></li>
+          <li><a href="#kontakt">Kontakt</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <article>
+        <h2>Profil</h2>
+        <p>
+          Ano, opravdu se tak <em>jmenuju</em>. HTML je opravdu
+          <strong>zábava.</strong>
+        </p>
+        <section id="co-umim">
+          <h3>Co umím</h3>
+          <ul>
+            <li>Spát</li>
+            <li>Jíst</li>
+            <li>Dýchat</li>
+            <li>Chodit (občas)</li>
+          </ul>
+        </section>
+        <section id="postup">
+          <h3>Postup učení</h3>
+          <ol>
+            <li>Otevřít sešit</li>
+            <li>Nadávat</li>
+            <li>Pochopit 10 %</li>
+          </ol>
+        </section>
+        <section id="odkazy">
+          <h3>Užitečné odkazy</h3>
+          <ul>
+            <li>
+              <a
+                href="https://developer.mozilla.org"
+                target="_blank"
+                rel="noopener"
+                >hmm mozilla</a
+              >
+            </li>
+            <li><a href="#fotka">obrazek</a></li>
+          </ul>
+        </section>
+        <section id="fotka">
+          <figure>
+            <img
+              src="https://placehold.co/300x200"
+              alt="Harry Deimling stojí před školou"
+            />
+            <figcaption>Já před školou, květen 2026</figcaption>
+          </figure>
+        </section>
+        <footer>
+          <time datetime="2026-05-09">9.5.2026</time>
+          <p>Autor: Harry Deimling</p>
+        </footer>
+      </article>
+      <aside>
+        <h3>Krátké bio</h3>
+        <p>Nevím, co sem napsat.</p>
+      </aside>
+      <section id="kontakt">
+        <h2>Kontaktní formulář</h2>
+        <form action="/kontakt" method="POST">
+          <fieldset>
+            <legend>Osobní údaje:</legend>
+            <label for="jmeno">Jméno:</label>
+            <input type="text" id="jmeno" name="jmeno" minlength="2" required />
+            <label for="email">Email:</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="vas@email.com"
+              required
+            />
+            <label for="vek">Věk:</label>
+            <input type="number" id="vek" name="vek" min="13" max="120" />
+            <label for="datum-narozeni">Datum narození:</label>
+            <input type="date" id="datum-narozeni" name="datum-narozeni" />
+          </fieldset>
+          <fieldset>
+            <legend>Zpráva</legend>
+            <label for="zeme">Země původu:</label>
+            <select id="zeme" name="zeme" required>
+              <option value="">--vyber--</option>
+              <option value="cs">Česko</option>
+              <option value="sk">Slovensko</option>
+              <option value="other">Jiná</option>
+            </select>
+            <label for="zprava">Zpráva:</label>
+            <textarea
+              id="zprava"
+              name="zprava"
+              rows="4"
+              required
+              maxlength="500"
+            ></textarea>
+            <input type="checkbox" id="subscribe" name="subscribe" />
+            <label for="subscribe">Chci dostávat novinky</label>
+          </fieldset>
+          <button type="submit">Odeslat</button>
+          <button type="reset">Vymazat</button>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2026 Harry Deimling</p>
+    </footer>
+  </body>
+</html>
