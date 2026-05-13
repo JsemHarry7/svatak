@@ -3,30 +3,9 @@
 Maturitní příprava pro P4A — SWI / DAT / ČJL.
 Ústní zkouška: **25. 5. 2026, odpoledne.** *(Dopoledne je ještě naděje. Odpoledne už jen panika.)*
 
----
+Mega-repo s celou moji maturitní přípravou na jednom místě: zápisky, surové materiály, plány den po dni, flashcards, praktický kód, ČJL rozbory. Všechno verzované v gitu, organizované přes [Claude Code](https://docs.claude.com/en/docs/claude-code) workflow (konvence v [`CLAUDE.md`](CLAUDE.md)).
 
-## Příběh tohoto repa
-
-Začalo to jednoduše. Chtěl jsem si někam dát zápisky, ať nemám pět notesů po pokojích a polovinu cool myšlenek v Discordu.
-
-Za týden tu byly šablony.
-
-Za dva týdny systém promptů pro Claude Code, který generuje zápisky z materiálů, vytváří flashcards, testuje mě a píše code review.
-
-Za tři týdny vlastní flashcard appka se SRS, která původně měla být "jen pomocníček na opakování." Ten teď žije ve [vlastním repu](https://github.com/JsemHarry7/rep) a má hooks, routing a designové tokeny. *Anyway.*
-
-Pak jsem se podíval do kalendáře a začal panikařit. **Tobě**, kdo tohle čteš, panikařit nebudu pomáhat, ale aspoň ti můžu ušetřit pár hodin tím, co je už vygenerované a otestované.
-
----
-
-## Pro spolužáky z P4A
-
-Pokud jdeš z toho stejného losovacího koše, klidně si ber cokoliv užitečného. Pár věcí ale měj na paměti:
-
-- **Žádný zápisek tady není oficiální učitelská pravda.** Většina je hybrid (zelený spolužácký zápis + Claude doplnění + moje úpravy + sebetestování). Kde uvidíš `⚠️` nebo `[doplněno z obecných znalostí]`, ber to jako *"fakt to ověř, neručím za to"*.
-- **Halucinace jsou reálné riziko.** Claude umí napsat dobře vypadající nesmysl. Pokud na něčem stavíš, projdi to s primárním zdrojem (Microsoft Learn, MDN, React docs).
-- **Můj styl mluvení ≠ tvůj styl mluvení.** Zápisky obsahují mnemotechniky a metafory, které mi sedí. Pro komisi to funguje, když to říkám já — ne když to z toho odříkáváš ty. Přepiš si to po svém.
-- **`spoluzaci-nezarucene/` — DON'T.** Jméno mluví za sebe.
+Cíl je, aby jednoho dne v květnu 2026 z toho někdo (nejlíp já) odpověděl na 3 otázky tak dobře, že se k tomu komise nebude vracet.
 
 ---
 
@@ -39,7 +18,7 @@ _flashcards/   # Q/A pro rep
 _cjl/          # knihy, rozbory, poznámky z filmů
 _meta/         # šablony + tabulka maturitních okruhů
 _practice/     # DAT — reálný kód (C#, React, HTML, CSS, Bootstrap)
-rep/           # submodule — flashcard appka (živé v JsemHarry7/rep)
+rep/           # submodule — flashcard appka (žije v JsemHarry7/rep)
 progress.md    # kde aktuálně stojím (status, slabá místa)
 maturita_plan.md  # plán bloků den po dni
 cjl_plan.md       # plán ČJL den po dni
@@ -49,6 +28,17 @@ CLAUDE.md      # konvence — Claude si to čte automaticky
 ```
 
 Detailnější popis konvencí (hierarchie zdrojů, anti-halucinace, styl zápisků): viz [`CLAUDE.md`](CLAUDE.md).
+
+---
+
+## Pro spolužáky z P4A
+
+Pokud jdeš z toho stejného losovacího koše, klidně si ber cokoliv užitečného. Pár věcí ale měj na paměti:
+
+- **Žádný zápisek tady není oficiální učitelská pravda.** Většina je hybrid (Prchalovy zápisky + zelené spolužácké + Claude doplnění + moje úpravy + sebetestování). Kde uvidíš `⚠️` nebo `[doplněno z obecných znalostí]`, ber to jako *"fakt to ověř, neručím za to"*.
+- **Halucinace jsou reálné riziko.** Claude umí napsat dobře vypadající nesmysl. Pokud na něčem stavíš, projdi to s primárním zdrojem (Microsoft Learn, MDN, React docs).
+- **Můj styl mluvení ≠ tvůj styl mluvení.** Zápisky obsahují mnemotechniky a metafory, které mi sedí. Pro komisi to funguje, když to říkám já — ne když to z toho odříkáváš ty. Přepiš si to po svém.
+- **`spoluzaci-nezarucene/` — DON'T.** Jméno mluví za sebe.
 
 ---
 
@@ -64,6 +54,16 @@ Detailnější popis konvencí (hierarchie zdrojů, anti-halucinace, styl zápis
 
 ---
 
+## Sesterský projekt: rep
+
+[**rep**](https://github.com/JsemHarry7/rep) (žije v `rep/` jako git submodule) je **flashcard appka se spaced repetition systémem**, kterou jsem napsal víceméně paralelně s tímhle repem. Původně to měl být "rychlý pomocníček na opakování" — teď má React Router, hooks, designové tokeny, cloud sync přes Cloudflare D1 a Google OAuth.
+
+Soubor `rep-card-format.md` popisuje Markdown formát kartiček, který appka přijímá. Claude je generuje přes prompt #2 v [`prompts.md`](prompts.md) — vstup: zápisek z `_notes/`, výstup: `.md` soubor s 10–20 kartami, který jen přetáhneš do appky.
+
+Pokud z tohohle repa použiješ jen jednu věc, ať je to ona.
+
+---
+
 ## Pokud to čteš v noci před zkouškou
 
 Drop perfectionism.
@@ -74,6 +74,18 @@ Drop perfectionism.
 4. Spát.
 
 Pohoda. *(Tohle si říkám hlavně sám sobě.)*
+
+---
+
+## Příběh tohoto repa
+
+**5 dní.** Tolik uplynulo od `git init` po pushnutou flashcard appku se SRS.
+
+- **Den 1:** chtěl jsem si někam dát zápisky, ať nemám pět notesů po pokojích a polovinu cool myšlenek v Discordu. `git init`, adresářová struktura, první šablona.
+- **Den 2–3:** šablony se rozrostly, vznikl systém promptů pro Claude Code (generuj zápisky, vytvoř flashcards, otestuj mě, code review). `progress.md` jako single source of truth.
+- **Den 4–5:** vlastní flashcard appka se SRS — React + Vite, custom routing, cloud sync. Začalo to jako "potřebuju lepší než Anki, ten je ošklivej" a skončilo to vlastním produktem.
+
+Někdy mezi tím jsem se podíval do kalendáře, viděl, že do zkoušky zbývá víc dní než jsem strávil stavbou tohohle bordelu, a začal panikařit. **Tobě**, kdo tohle čteš, panikařit nebudu pomáhat, ale aspoň ti můžu ušetřit pár hodin tím, co je už vygenerované a otestované.
 
 ---
 
