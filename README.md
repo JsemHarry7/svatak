@@ -1,4 +1,4 @@
-# svatak
+# svaťák
 
 Maturitní příprava pro P4A — SWI / DAT / ČJL.
 Moje ústní zkouška: **25. 5. 2026, odpoledne.** *(Dopoledne je ještě naděje. Odpoledne už jen panika.)*
@@ -39,7 +39,7 @@ Pokud jdeš z toho stejného losovacího koše, klidně si ber cokoliv užitečn
 
 - **Žádný zápisek tady není oficiální učitelská pravda.** Většina je hybrid (Prchalovy zápisky + zelené spolužácké + Claude doplnění + moje úpravy + sebetestování). Kde uvidíš `⚠️` nebo `[doplněno z obecných znalostí]`, ber to jako *"fakt to ověř, neručím za to"*.
 - **Halucinace jsou reálné riziko.** Claude umí napsat dobře vypadající nesmysl. Pokud na něčem stavíš, projdi to s primárním zdrojem (Microsoft Learn, MDN, React docs).
-- **Můj styl mluvení ≠ tvůj styl mluvení.** Zápisky obsahují mnemotechniky a metafory, které mi sedí. Pro komisi to funguje, když to říkám já — ne když to z toho odříkáváš ty. Přepiš si to po svém.
+- **Můj styl mluvení ≠ tvůj styl mluvení.** Zápisky obsahují mnemotechniky a metafory, které mi sedí. Pro komisi to funguje, když to říkám já, ne když to z toho odříkáváš ty. Přepiš si to po svém.
 - **`spoluzaci-nezarucene/` — DON'T.** Jméno mluví za sebe.
 
 ---
@@ -58,7 +58,7 @@ Pokud jdeš z toho stejného losovacího koše, klidně si ber cokoliv užitečn
 
 ## Sesterský projekt: rep
 
-[**rep**](https://github.com/JsemHarry7/rep) (žije v `rep/` jako git submodule) je **flashcard appka se spaced repetition systémem**, kterou jsem napsal víceméně paralelně s tímhle repem. Původně to měl být "rychlý pomocníček na opakování" — teď má React Router, hooks, designové tokeny, cloud sync přes Cloudflare D1 a Google OAuth.
+[**rep**](https://github.com/JsemHarry7/rep) (žije v `rep/` jako git submodule) je **flashcard appka se spaced repetition systémem**, kterou jsem napsal víceméně paralelně s tímhle repem. Původně to měl být "rychlý pomocníček na opakování," teď má React Router, hooks, designové tokeny, cloud sync přes Cloudflare D1 a Google OAuth.
 
 Soubor `rep-card-format.md` popisuje Markdown formát kartiček, který appka přijímá. Claude je generuje přes prompt #2 v [`prompts.md`](prompts.md) — vstup: zápisek z `_notes/`, výstup: `.md` soubor s 10–20 kartami, který jen přetáhneš do appky.
 
@@ -85,7 +85,7 @@ Pohoda. *(Tohle si říkám hlavně sám sobě.)*
 
 - **Den 1:** chtěl jsem si někam dát zápisky, ať nemám pět notesů po pokojích a polovinu cool myšlenek v Discordu. `git init`, adresářová struktura, první šablona.
 - **Den 2–3:** šablony se rozrostly, vznikl systém promptů pro Claude Code (generuj zápisky, vytvoř flashcards, otestuj mě, code review). `progress.md` jako single source of truth.
-- **Den 4–5:** vlastní flashcard appka se SRS — React + Vite, custom routing, cloud sync. Začalo to jako "potřebuju lepší než Anki, ten je ošklivej" a skončilo to vlastním produktem.
+- **Den 4–5:** vlastní flashcard appka se SRS, React + Vite, custom routing, cloud sync. Začalo to jako "potřebuju lepší než Anki, ten je ošklivej" a skončilo to vlastním produktem.
 
 Někdy mezi tím jsem se podíval do kalendáře, viděl, že do zkoušky zbývá víc dní než jsem strávil stavbou tohohle bordelu, a začal panikařit. **Tobě**, kdo tohle čteš, panikařit nebudu pomáhat, ale aspoň ti můžu ušetřit pár hodin tím, co je už vygenerované a otestované.
 
