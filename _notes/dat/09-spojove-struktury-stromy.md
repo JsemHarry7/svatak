@@ -404,8 +404,8 @@ Console.WriteLine(tree.Contains(7));   // false
 
 ## ⚠️ Nejisté / k ověření
 
-- ⚠️ Tento zápisek staví na `_materials/dat/09/moje/` (hodina-poznámky, neformální tone) + obecných znalostí. Materiál pokrývá xlsx Popis (*"Spojové seznamy, ukazatele, stromy (binární strom)"*).
-- ⚠️ **Doplněno:** procházení stromů (in-/pre-/post-order), worst case BST, vyvážené stromy (AVL, Red-Black) — nebyly v moje notes detailně.
+- ⚠️ Tento zápisek staví na `_materials/dat/09/prchal/` (hodina-poznámky, neformální tone) + obecných znalostí. Materiál pokrývá xlsx Popis (*"Spojové seznamy, ukazatele, stromy (binární strom)"*).
+- ⚠️ **Doplněno:** procházení stromů (in-/pre-/post-order), worst case BST, vyvážené stromy (AVL, Red-Black) — nebyly v Prchalových zápiscích detailně.
 - ⚠️ **AVL a Red-Black stromy** — pokročilá témata, komise se na detail rotací zřídka ptá. Drž jen pojem *"vyvážené BST, garantují O(log n) v worst case přes auto-rebalancing"*.
 
 ---

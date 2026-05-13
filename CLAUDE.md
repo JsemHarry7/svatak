@@ -18,7 +18,7 @@ _materials/    SUROVÉ vstupy — školní zápisky, slidy, vzorová zadání
     skola/                    # od učitele
     spoluzaci-validovane/     # zelené (učitelem ověřené přípravy spolužáků)
     spoluzaci-nezarucene/     # ostatní spolužácké (používat opatrně nebo vůbec)
-    moje/                     # moje vlastní zápisky z hodin
+    prchal/                   # Prchalovy zápisky z hodiny (kamarád, seděl jsem vedle)
   dat/{NN-tema}/  (stejná struktura)
 
 _notes/        MOJE generované zápisky — cíl: 15min ústní výklad
@@ -50,11 +50,11 @@ _meta/         šablony, prompty, progress
 
 ### Hierarchie zdrojů (DŮLEŽITÉ — stav k 7.5.2026)
 
-**Reality check:** Učitel oficiální materiály ke studiu nesdílí. `skola/` adresáře pro SWI/DAT jsou prázdné. Vlastní zápisky z hodin (`moje/`) existují jen u některých témat. Pracujeme s tím, co je.
+**Reality check:** Učitel oficiální materiály ke studiu nesdílí. `skola/` adresáře pro SWI/DAT jsou prázdné. Prchalovy zápisky z hodiny (`prchal/`) existují jen u některých témat. Pracujeme s tím, co je.
 
 Pořadí důvěry pro **SWI/DAT**:
 
-1. **Primární (pokud existuje):** `moje/` (vlastní zápisky z hodin) — jsem byl u toho výkladu
+1. **Primární (pokud existuje):** `prchal/` (Prchalovy zápisky z hodiny) — seděl jsem vedle něj, viděl jsem to vznikat, sám jsem se z toho učil; vysoká důvěra
 2. **Primární (default):** `spoluzaci-validovane/` (zelené, učitelem schválené přípravy) — doporučená forma a obsah, **ale ne nutně každý technický detail**
 3. **Doplňkové autoritativní:** oficiální docs ve formě URL nebo zkopírovaných pasáží:
    - Microsoft Learn (ASP.NET, .NET, C#)

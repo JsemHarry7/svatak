@@ -541,7 +541,7 @@ Mobil 1 sloupec → tablet 2 sloupce → desktop 3 sloupce.
 
 ## ⚠️ Nejisté / k ověření
 
-- ⚠️ **Materiál v `_materials/dat/02/`** je v adresáři **bez `validovane/` markeru** — je to assignment "P4A Restaurace Bootstrap Cvičení" s HTML kostrou + 4 obrázky breakpointů (desktop, tablet1, tablet2, mobile) + README. Předpokládám, že je to **moje** materiál (od učitele) nebo neoznačený jako validovaný.
+- ⚠️ **Materiál v `_materials/dat/02/`** je v adresáři **bez `validovane/` markeru** — je to assignment "P4A Restaurace Bootstrap Cvičení" s HTML kostrou + 4 obrázky breakpointů (desktop, tablet1, tablet2, mobile) + README. Předpokládám, že je to materiál od učitele (assignment), ne spolužácký zápis.
 - ⚠️ **Bootstrap 4 vs 5** — assignment používá **`data-bs-*`** atributy (Bootstrap 5) + **jQuery** ve `<script>` na konci (`$(document).ready`). To je **smíšené** — Bootstrap 5 jQuery nepotřebuje, ale assignment ho používá pro custom filter logic. Pokud učitel chce **Bootstrap 4 syntax** (data-toggle bez bs-), použij to. Drž **Bootstrap 5 syntax** (`data-bs-*`) — moderní default.
 - ⚠️ **Bootstrap verze CDN linku** — drž **5.3+** (nejnovější stable).
 

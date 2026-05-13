@@ -14,7 +14,7 @@ v _materials/{swi|dat}/{NN-tema}/.
 
 Postup:
 1. Načti VŠECHNY soubory v té složce. Rozliš zdroje podle podadresáře:
-   - skola/ a moje/ = primární, důvěryhodné
+   - skola/ a prchal/ = primární, důvěryhodné
    - spoluzaci-validovane/ = sekundární, brát s rezervou (zelené = forma OK, 
      ne nutně každý detail)
    - spoluzaci-nezarucene/ = jen pokud chybí jiný zdroj, vždy s ⚠️

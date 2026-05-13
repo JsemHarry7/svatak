@@ -350,7 +350,7 @@ Console.WriteLine(cena);        // 0.3 přesně
 
 ## ⚠️ Nejisté / k ověření
 
-- ⚠️ Tento zápisek staví na `_materials/swi/03/moje/` (hodina-poznámky) + `nezarucene/` DOCX. Materiál pokrývá xlsx Popis (*"Jednotky, datum, číselné soustavy, znaky, základní a složené typy"*) + doplněno o **dvojkový doplněk** a **IEEE 754** (komise se na ně občas ptá).
+- ⚠️ Tento zápisek staví na `_materials/swi/03/prchal/` (hodina-poznámky) + `nezarucene/` DOCX. Materiál pokrývá xlsx Popis (*"Jednotky, datum, číselné soustavy, znaky, základní a složené typy"*) + doplněno o **dvojkový doplněk** a **IEEE 754** (komise se na ně občas ptá).
 - ⚠️ **Konverze mezi soustavami** — v hodina-poznámkách není podrobně, doplněno standardní algoritmus dělením/sčítáním mocnin.
 - ⚠️ **Velikost typů v C#** — některé jsou platform-dependent (`IntPtr`, ne `int`). Pro maturitu drž standardní velikosti uvedené v tabulce.
 

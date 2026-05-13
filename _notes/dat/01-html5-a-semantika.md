@@ -309,7 +309,7 @@ body { font-family: 'Inter', sans-serif; }
 
 ## ⚠️ Nejisté / k ověření
 
-- ⚠️ **V `_materials/dat/01/` není žádný materiál** od učitele ani spolužáků (ani moje/, ani spoluzaci-validovane/, ani spoluzaci-nezarucene/). Celá tato část je **doplněna z obecných znalostí** podle xlsx Popisu *"Struktura stránky, sémantické tagy v HTML5, typografie na webu"*. Pokud má učitel specifické důrazy (např. konkrétní seznam sémantických tagů, které vyžaduje), tato verze je nemusí pokrývat. Při čtení vyber priority podle vlastního úsudku.
+- ⚠️ **V `_materials/dat/01/` není žádný materiál** od učitele ani spolužáků (ani prchal/, ani spoluzaci-validovane/, ani spoluzaci-nezarucene/). Celá tato část je **doplněna z obecných znalostí** podle xlsx Popisu *"Struktura stránky, sémantické tagy v HTML5, typografie na webu"*. Pokud má učitel specifické důrazy (např. konkrétní seznam sémantických tagů, které vyžaduje), tato verze je nemusí pokrývat. Při čtení vyber priority podle vlastního úsudku.
 - ⚠️ **HTML5 specifikace** se technicky stále vyvíjí jako "WHATWG HTML Living Standard". Termín "HTML5" je marketingový pro to, co prohlížeče od ~2014 podporují. Pro maturitu drž *"HTML5 přinesl …"* tradiční výklad.
 - ⚠️ **`<main>` má být v dokumentu jen jednou** — typická otázka. Ale technicky se to nevynucuje (browser to nepoznáš). Drž to jako pravidlo.
 

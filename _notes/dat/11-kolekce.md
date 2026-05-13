@@ -378,7 +378,7 @@ telefony["Jana"] = "+420 456";
 
 ## ⚠️ Nejisté / k ověření
 
-- ⚠️ **Materiály v `_materials/dat/11/`** jsou v `nezarucene/` (žádný validation systém pro PRG, viz `feedback_validation_meaning`). Obsah ale **vypadá kvalitně** — pokrývá xlsx Popis přesně. Vyšel jsem z `moje/` jako primárního zdroje.
+- ⚠️ **Materiály v `_materials/dat/11/`** jsou v `nezarucene/` (žádný validation systém pro PRG, viz `feedback_validation_meaning`). Obsah ale **vypadá kvalitně** — pokrývá xlsx Popis přesně. Vyšel jsem z `prchal/` jako primárního zdroje.
 - ⚠️ **Vlastní implementace fronty přes List** má `O(n)` Dequeue. Pro lepší výkon používá .NET interně **kruhový buffer**. Pro maturitu vlastní implementace přes List **stačí**, ale komise se může pichnout *"je tahle implementace efektivní?"* — odpověz *"Dequeue je O(n), pro lepší by byl LinkedList nebo kruhový buffer"*.
 - ⚠️ **`HashSet`** explicitně v xlsx Popis chybí, ale je v hodina-poznámkách. Pravděpodobně se komise spíš ptá na 4 hlavní (pole/stack/queue/dict). HashSet jako bonus.
 
