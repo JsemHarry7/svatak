@@ -7,6 +7,8 @@ Mega-repo s celou moji maturitní přípravou na jednom místě: zápisky, surov
 
 Cíl je, aby jednoho dne v květnu 2026 z toho někdo (nejlíp já) odpověděl na 3 otázky tak dobře, že se k tomu komise nebude vracet.
 
+*Všechno je tu WIP. Je to feature, ne bug.*
+
 ---
 
 ## Co tady je
