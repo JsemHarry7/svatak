@@ -1,0 +1,224 @@
+/* =============================================
+   ZÁKLADNÍ STYLY — neupravuj tuto sekci
+   ============================================= */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+header {
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1.1rem;
+  opacity: 0.8;
+}
+
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.section {
+  margin-bottom: 60px;
+}
+
+.section h2 {
+  font-size: 1.6rem;
+  margin-bottom: 24px;
+  color: #1a1a2e;
+  border-bottom: 3px solid #4a90e2;
+  padding-bottom: 8px;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+/* =================================================
+   ZDE ZAČÍNAJÍ TVÉ ÚKOLY — upravuj pouze tuto sekci
+   ================================================= */
+
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 32px 24px;
+  text-align: center;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card-icon {
+  font-size: 3rem;
+  margin-bottom: 16px;
+  animation-name: icon-animation;
+  animation: 5s ease-in-out infinite icon-animation;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    transition: none;
+  }
+
+  .card:hover {
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  .card-icon {
+    animation: none;
+  }
+
+  .btn {
+    transition: none;
+  }
+
+  .btn:hover {
+    background-color: #16213e;
+  }
+
+  .btn:active {
+    background-color: #4a90e2;
+  }
+
+  .notification {
+    animation: 3s ease-in 1 notification-animation;
+  }
+
+  @keyframes notification-animation {
+    0% {
+      opacity: 0%;
+    }
+    40% {
+      opacity: 0%;
+    }
+    100% {
+      opacity: 100%;
+    }
+  }
+}
+
+@keyframes icon-animation {
+  0% {
+    transform: rotate(0);
+  }
+  10% {
+    transform: rotate(10deg);
+  }
+  20% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(0);
+  }
+}
+
+.card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: #1a1a2e;
+}
+
+.card p {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+.btn {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition:
+    background-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #16213e;
+}
+
+.btn:active {
+  transform: scale(1.1);
+}
+
+.loader-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.loader {
+  width: 50px;
+  height: 50px;
+  border: 5px solid #ddd;
+  border-top-color: #4a90e2;
+  border-radius: 50%;
+  animation: 1s linear infinite loader-animation;
+}
+
+@keyframes loader-animation {
+  0% {
+    transform: rotate(0);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.notification {
+  background: #e8f5e9;
+  border-left: 5px solid #4caf50;
+  padding: 16px 20px;
+  border-radius: 6px;
+  font-size: 1rem;
+  animation: 3s ease-in 1 notification-animation;
+}
+
+@keyframes notification-animation {
+  0% {
+    transform: translateX(-2000px);
+    opacity: 0%;
+  }
+  40% {
+    transform: translateX(-2000px);
+    opacity: 0%;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 100%;
+  }
+}

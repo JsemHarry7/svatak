@@ -1,0 +1,91 @@
+/* ===========================================
+   ZÁKLADNÍ STYLY (NEPRAVOVAT)
+   =========================================== */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+/* ===========================================
+   ZDE JE VAŠE PRÁCE:
+   POMOCÍ CSS GRIDU VYTVOŘTE POŽADOVANÝ LAYOUT
+   =========================================== */
+.grid-container {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+    "hd"
+    "sd"
+    "main"
+    "aside"
+    "ft";
+  gap: 20px;
+}
+@media screen and (width > 768px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: 250px 1fr 200px;
+    grid-template-rows: min-content 1fr min-content;
+    grid-template-areas:
+      "hd hd hd"
+      "sd main aside"
+      "ft ft ft";
+  }
+}
+
+.header {
+  background-color: #3498db;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  grid-area: hd;
+}
+
+.sidebar {
+  background-color: #2c3e50;
+  color: white;
+  padding: 20px;
+  grid-area: sd;
+}
+
+.sidebar ul {
+  list-style: none;
+}
+
+.sidebar ul li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 10px 0;
+  border-bottom: 1px solid #3b536b;
+}
+
+.content {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ddd;
+  grid-area: main;
+}
+
+.aside {
+  background-color: #f1c40f;
+  padding: 20px;
+  grid-area: aside;
+}
+
+.footer {
+  background-color: #34495e;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  grid-area: ft;
+}
