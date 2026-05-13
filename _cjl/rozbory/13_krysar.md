@@ -45,12 +45,10 @@
 - Symbolická a alegorická rovina textu
 - Inspirace klasickými a mytologickými náměty
 
-**Další zástupci anarchistických buřičů:**
-- **Fráňa Šrámek** - *Modrý a rudý*, *Stříbrný vítr*, *Měsíc nad řekou*
-- **Karel Toman** - *Torzo života*, *Sluneční hodiny*
-- **Stanislav Kostka Neumann** - *Kniha lesů, vod a strání*
-- **Petr Bezruč** - *Slezské písně* (blízký, ale specifický)
-- **František Gellner** - *Po nás ať přijde potopa*, *Radosti života*
+**Další zástupci:**
+- ✅ **František Gellner** - *Po nás ať přijde potopa* (1901), *Radosti života* (1903) - bohémský revoltér, anarchistická poezie, padl na frontě 1. sv. války (na tvém seznamu)
+- 📚 **Petr Bezruč** - *Slezské písně* (1909) - sociální poezie o útlaku Slezanů, chudobě, práci v dolech
+- **Stanislav Kostka Neumann** - *Kniha lesů, vod a strání* (1914), *Nové zpěvy* (1918) - anarchista, vitalismus, organizační střed buřičů kolem časopisu Nový kult
 
 ---
 

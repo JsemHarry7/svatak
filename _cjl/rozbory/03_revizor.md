@@ -32,10 +32,9 @@
   - Zájem o "malého člověka" a jeho místo ve společnosti.
   - Humor jako prostředek kritiky.
 - **Další zástupci:**
-  - Alexander Sergejevič Puškin (*Evžen Oněgin*, *Kapitánská dcerka*) -- námět Revizora údajně navrhl Gogolovi právě Puškin
-  - Michail Jurjevič Lermontov (*Hrdina naší doby*)
-  - Ivan Sergejevič Turgeněv (*Lovcovy zápisky*, *Otcové a děti*)
-  - Fjodor Michajlovič Dostojevskij (*Zločin a trest*) -- pozdější generace
+  - 📚 Lev Nikolajevič Tolstoj (*Anna Karenina*, 1878; *Vojna a mír*, 1869) -- vrchol ruského realismu
+  - 📚 Honoré de Balzac (*Otec Goriot*, 1835) -- francouzský realismus, cyklus Lidská komedie
+  - 📚 Charles Dickens (*Oliver Twist*, 1838) -- anglický realismus, kritika sociálních poměrů viktoriánské Anglie
 
 ---
 

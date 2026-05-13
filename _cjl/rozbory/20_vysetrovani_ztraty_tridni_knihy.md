@@ -56,11 +56,10 @@
 - Tradice českého humoru (Hašek, Voskovec a Werich)
 - Malé divadelní formy — intimní prostor, přímý kontakt s divákem
 
-**Další zástupci absurdního a autorského divadla:**
-- **Václav Havel** — Zahradní slavnost, Vyrozumění (absurdní drama)
-- **Jiří Suchý a Jiří Šlitr** — Semafor (autorské divadlo, hudební komedie)
-- **Ivan Vyskočil** — nedivadlo, autorské čtení
-- Ze světa: **Samuel Beckett** — Čekání na Godota; **Eugène Ionesco** — Plešatá zpěvačka
+**Další zástupci:**
+- ✅ **Bohumil Hrabal** — Ostře sledované vlaky (1965), Obsluhoval jsem anglického krále (1971/1989) — mistr „pábení", lyricko-expresivní próza (na tvém seznamu)
+- ✅ **Ladislav Fuks** — Spalovač mrtvol (1967), Pan Theodor Mundstock (1963) — psychologická próza, holokaust v pozadí, motiv banálního zla (na tvém seznamu)
+- 📚 **Milan Kundera** — Žert (1967), Směšné lásky (1963–68) — intelektuální satira, ironie dějin, později francouzská emigrace
 
 ---
 

@@ -47,11 +47,10 @@
 - **Squealer** (prase) = propagandistická média
 - **Lidé z okolních farem** = kapitalistické státy
 
-**Další zástupci alegorické a dystopické literatury:**
-- **Aldous Huxley** – *Konec civilizace* (Brave New World, 1932): V budoucnosti lidé nejsou ovládáni strachem, ale pohodlím a konzumem. Společnost je rozdělena do kast, lidé jsou klonováni. Hrdina Bernard Marx se cítí odcizen a touží po skutečném životě.
-- **Jevgenij Zamjatin** – *My* (1924): Sci-fi román z budoucího totalitního státu, kde lidé nemají jména, jen čísla. Číslice D-503 začne pochybovat o systému. Přímý vzor pro Orwellovo dílo.
-- **Ray Bradbury** – *451 stupňů Fahrenheita* (1953): Svět, kde jsou knihy zakázány a páleny. Hasič Guy Montag začne knihy skrývat a nakonec se připojí k podzemnímu hnutí odporu.
-- **Karel Čapek** – *R.U.R.* (1920): Drama o robotech, kteří se vzbouří proti svým stvořitelům – alegorie na vztah utlačovatelů a utlačovaných.
+**Další zástupci:**
+- **Aldous Huxley** – *Konec civilizace* (Brave New World, 1932) – sourozenecká dystopie k Orwellovi: kontrola rozkoší a drogou „soma" místo strachem; lidé geneticky rozděleni do kast.
+- 📚 **Ray Bradbury** – *451 stupňů Fahrenheita* (1953) – v budoucnosti se pálí knihy; hasič Montag se připojí k odboji, kde si lidé pamatují celé knihy nazpaměť.
+- **Jevgenij Zamjatin** – *My* (1924) – prvotní dystopický román; D-503 v dokonalém totalitním státě se skleněnými domy a čísly místo jmen. **Přímý vzor Orwella i Huxleyho.**
 
 ---
 

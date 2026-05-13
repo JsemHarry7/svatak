@@ -38,17 +38,10 @@
 - Postavy z nižších společenských vrstev jako nositelé „pravdy"
 - Hovorový jazyk, autentičnost prostředí
 
-**Další zástupci české meziválečné prózy:**
-- **Karel Čapek** - *R.U.R.*, *Válka s mloky*, *Bílá nemoc* (demokratický proud, pragmatismus)
-- **Karel Poláček** - *Bylo nás pět*, *Muži v ofsajdu* (humor)
-- **Eduard Bass** - *Cirkus Humberto*, *Klapzubova jedenáctka*
-- **Vladislav Vančura** - *Rozmarné léto*, *Markéta Lazarová* (poetismus v próze)
-- **Ivan Olbracht** - *Nikola Šuhaj loupežník* (sociální próza)
-
-**Protiválečná literatura ve světě:**
-- **Erich Maria Remarque** - *Na západní frontě klid* (1929)
-- **Ernest Hemingway** - *Sbohem, armádo* (1929)
-- **Joseph Heller** - *Hlava XXII* (1961) - podobná absurdita jako u Haška
+**Další zástupci:**
+- ✅ **Erich Maria Remarque** - *Na západní frontě klid* (1929), *Tři kamarádi* (1938) - německá ztracená generace, hřbitovy zákopu, antiválečný román (na tvém seznamu)
+- 📚 **Ernest Hemingway** - *Sbohem, armádo* (1929), *Komu zvoní hrana* (1940), *Stařec a moře* (1952) - americká ztracená generace, Nobelova cena 1954
+- 📚 **Romain Rolland** - *Petr a Lucie* (1920) - francouzský pacifista, antiválečný protest, Nobelova cena 1915
 
 ---
 

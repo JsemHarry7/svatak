@@ -42,12 +42,9 @@
 - Filmová nová vlna — úzká spolupráce literatury a filmu
 
 **Další zástupci:**
-- **Ladislav Fuks** — Spalovač mrtvol, Pan Theodor Mundstock
-- **Milan Kundera** — Žert, Nesnesitelná lehkost bytí
-- **Josef Škvorecký** — Zbabělci, Tankový prapor
-- **Arnošt Lustig** — Modlitba pro Kateřinu Horovitzovou, Noc a naděje
-- **Vladimír Páral** — Soukromá vichřice
-- **Ivan Klíma** — Láska a smetí
+- ✅ **Ladislav Fuks** — Spalovač mrtvol (1967), Pan Theodor Mundstock (1963) — psychologická próza, holokaust v pozadí, motiv banálního zla (na tvém seznamu)
+- 📚 **Milan Kundera** — Žert (1967), Směšné lásky (1963–68), Nesnesitelná lehkost bytí (1984) — intelektuální satira, ironie; později francouzská emigrace
+- ✅ **Zdeněk Svěrák & Ladislav Smoljak** — Vyšetřování ztráty třídní knihy (1967), České nebe (2008) — Divadlo Járy Cimrmana, mystifikace, parodie odborného diskurzu (na tvém seznamu)
 
 ---
 

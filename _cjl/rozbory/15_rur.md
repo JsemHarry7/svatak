@@ -53,12 +53,10 @@
 - Marxismus, třídní boj, otázka práce a vykořisťování
 - Vliv darwinismu: co je vlastně člověk? Čím se liší od stroje?
 
-**Další zástupci meziválečné literatury:**
-- **John Steinbeck** – *O myších a lidech* (1937): Dva dělníci, George a Lennie, putují za snem o vlastní farmě. Lennie je silný, ale mentálně postižený. Sen se rozbije tragédií. Steinbeck píše o bídě a solidaritě v době Velké hospodářské krize.
-- **Aldous Huxley** – *Konec civilizace* (Brave New World, 1932): Dystopický svět, kde jsou lidé geneticky naprogramováni do kast a manipulováni konzumem a drogou. Wildova záchrana přichází z „rezervace" skutečných lidí.
-- **Agatha Christie** – *Deset malých černoušků* (And Then There Were None, 1939): Deset lidí je lákáno na ostrov a jeden po druhém umírá podle dětské říkanky. Záhadu musí čtenář rozluštit sám.
-- **Karel Poláček** – *Bylo nás pět* (1946): Humoristický román o chlapeckém přátelství v maloměstě před 1. světovou válkou, vyprávěný z perspektivy dítěte.
-- **George Orwell** – *Farma zvířat* (1945): Alegorie na ruskou revoluci a stalinismus. Zvířata svrhnou farmáře, ale prase Napoleon se stane novým tyranem.
+**Další zástupci:**
+- ✅ **Karel Poláček** – *Bylo nás pět* (1946) – humoristický román dětskou perspektivou, parta pěti chlapců v maloměstě (na tvém seznamu)
+- 📚 **Vladislav Vančura** – *Rozmarné léto* (1926), *Markéta Lazarová* (1931) – meziválečný čz humor, archaizující jazyková hra; popraven nacisty 1942
+- 📚 **Zdeněk Jirotka** – *Saturnin* (1942) – sluha s originálními nápady, nejcitovanější česká humoristická kniha 20. století
 
 ---
 

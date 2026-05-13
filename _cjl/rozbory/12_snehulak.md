@@ -47,12 +47,10 @@
 - Napínavý, rychlý děj, krátké kapitoly, cliffhangery
 - Kombinace kriminální zápletky s osobním příběhem vyšetřovatele
 
-**Další zástupci severského krimi:**
-- **Stieg Larsson** - trilogie *Milénium* (Muži, kteří nenávidí ženy; Dívka, která si hrála s ohněm; Dívka, která kopla do vosího hnízda)
-- **Henning Mankell** - série s komisařem Wallanderem
-- **Camilla Läckbergová** - série z Fjällbacky
-- **Arnaldur Indriðason** - islandské detektivky (komisař Erlendur)
-- **Jussi Adler-Olsen** - série Oddělení Q
+**Další zástupci:**
+- 📚 **Lars Kepler** (švédský pseudonym manželského páru Alexandra Coelho Ahndoril & Alexander Ahndoril) - série o detektivu Joonu Linnovi: *Hypnotizér* (2009), *Stalker* (2014) - severský psychologický thriller
+- 📚 **Haruki Murakami** - *Norské dřevo* (1987), *Kafka na pobřeží* (2002) - světově nejčtenější současný japonský autor, magicko-realistický román
+- 📚 **Cormac McCarthy** - *Cesta* (2006, Pulitzerova cena), *Tahle země není pro starý* (2005) - současná americká próza, biblicky strohý styl
 
 ---
 

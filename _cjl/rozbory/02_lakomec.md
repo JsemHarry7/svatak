@@ -35,9 +35,9 @@
   - V komedii: typizované postavy, kritika lidských nectností, poučný záměr.
   - Spisovný, uhlazen jazyk.
 - **Další zástupci:**
-  - Jean Racine (*Faidra*) -- tragédie
-  - Pierre Corneille (*Cid*) -- tragédie
-  - Jean de La Fontaine (*Bajky*) -- básnická tvorba
+  - Jean Racine (*Faidra*, 1677) -- vrchol francouzské klasicistní tragédie, vášeň ničí rozum
+  - Pierre Corneille (*Cid*, 1637) -- zakladatel francouzské klasicistní tragédie, konflikt lásky a cti
+  - Jean de La Fontaine (*Bajky*, 1668–1694) -- klasicistní bajkář, vrstevník Molièra u dvora Ludvíka XIV.
 
 ---
 

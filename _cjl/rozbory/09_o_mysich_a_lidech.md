@@ -52,11 +52,9 @@
 
 ### Další zástupci
 
-- **Ernest Hemingway** – „Stařec a moře", „Sbohem, armádo"
-- **Francis Scott Fitzgerald** – „Velký Gatsby"
-- **William Faulkner** – „Hluk a zuřivost"
-- **Theodore Dreiser** – „Americká tragédie"
-- **Upton Sinclair** – „Džungle"
+- ✅ **Agatha Christie** – „Deset malých černoušků" (1939), „Vražda v Orient Expressu" (1934) – „královna detektivky", britský zlatý věk (na tvém seznamu)
+- 📚 **Ernest Hemingway** – „Stařec a moře" (1952), „Komu zvoní hrana" (1940), „Sbohem, armádo" (1929) – americká ztracená generace, Nobelova cena 1954
+- 📚 **Francis Scott Fitzgerald** – „Velký Gatsby" (1925) – ikona americké ztracené generace, kritika amerického snu
 
 ---
 

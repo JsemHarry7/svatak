@@ -12,6 +12,7 @@ ARIAL = "C:/Windows/Fonts/arial.ttf"
 ARIAL_BOLD = "C:/Windows/Fonts/arialbd.ttf"
 ARIAL_ITALIC = "C:/Windows/Fonts/ariali.ttf"
 ARIAL_BOLD_ITALIC = "C:/Windows/Fonts/arialbi.ttf"
+SEGOE_EMOJI = "C:/Windows/Fonts/seguiemj.ttf"  # fallback pro emoji glyphy (✅, 📚 atd.)
 
 MARGIN_LEFT = 15
 MARGIN_RIGHT = 15
@@ -26,6 +27,9 @@ class RozborPDF(FPDF):
         self.add_font("Arial", style="B", fname=ARIAL_BOLD)
         self.add_font("Arial", style="I", fname=ARIAL_ITALIC)
         self.add_font("Arial", style="BI", fname=ARIAL_BOLD_ITALIC)
+        if os.path.exists(SEGOE_EMOJI):
+            self.add_font("SegoeEmoji", style="", fname=SEGOE_EMOJI)
+            self.set_fallback_fonts(["SegoeEmoji"])
         self.set_margins(MARGIN_LEFT, MARGIN_TOP, MARGIN_RIGHT)
         self.set_auto_page_break(auto=True, margin=15)
         self.set_font("Arial", size=11)

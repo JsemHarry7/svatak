@@ -1,0 +1,126 @@
+@import url(normalize.css) layer(reset);
+
+:root {
+  --gradient-start: #667eea;
+  --gradient-middle: #9165a4ff;
+  --gradient-end: #51257dff;
+
+  --white: #ffffff;
+  --border-light: rgba(0, 0, 0, 0.1);
+
+  --light-grey: #e8eaf6;
+  --purple: #5c6bc0;
+  --light-green: #dbffdeff;
+  --light-orange: #fdeed9ff;
+  --light-pink: #ffdfeaff;
+  --grey: #999;
+  --red: #ad2f2fff;
+}
+
+html {
+  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+}
+
+body {
+  background: linear-gradient(
+    135deg,
+    var(--gradient-start) 0%,
+    var(--gradient-middle) 50%,
+    var(--gradient-end) 100%
+  );
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+h1 {
+  color: var(--white);
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+body > p {
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.schedule {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  background-color: var(--white);
+  border-collapse: collapse;
+  font-weight: 600;
+}
+
+.schedule__caption {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: var(--white);
+  font-size: large;
+  color: var(--purple);
+}
+
+.schedule__col--time {
+  background-color: var(--light-grey);
+}
+
+.schedule__col--room {
+  background-color: var(--light-orange);
+}
+
+.schedule__head {
+  background: linear-gradient(
+    160deg,
+    var(--gradient-start) 0%,
+    var(--gradient-end) 100%
+  );
+}
+
+.schedule__head th {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  color: var(--white);
+}
+
+.schedule td {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-align: center;
+  border: 1px solid var(--border-light);
+}
+
+.schedule__time {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  color: var(--purple);
+  border: 1px solid var(--border-light);
+}
+
+.schedule__event--keynote {
+  background-color: var(--light-green);
+}
+
+.schedule__event--networking {
+  background-color: var(--light-pink);
+}
+
+.schedule__event--break {
+  color: var(--red);
+  font-weight: 700;
+}
+
+.schedule td span {
+  font-weight: 400;
+  font-style: italic;
+  color: var(--grey);
+  font-size: 0.9rem;
+}

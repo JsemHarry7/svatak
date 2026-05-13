@@ -51,11 +51,9 @@
 
 ### Další zástupci
 
-- **Arthur Conan Doyle** – „Sherlock Holmes" (předchůdce, viktoriánská éra)
-- **Dorothy L. Sayersová** – „Lord Peter Wimsey"
-- **G. K. Chesterton** – „Otec Brown"
-- **Raymond Chandler** – americká „drsná" detektivka
-- **Dashiell Hammett** – „Maltézský sokol"
+- ✅ **John Steinbeck** – „O myších a lidech" (1937), „Hrozny hněvu" (1939) – americká sociální próza Velké hospodářské krize, Nobelova cena 1962 (na tvém seznamu)
+- 📚 **Ernest Hemingway** – „Stařec a moře" (1952), „Komu zvoní hrana" (1940) – americká ztracená generace, Nobelova cena 1954
+- 📚 **Francis Scott Fitzgerald** – „Velký Gatsby" (1925) – ikona americké ztracené generace, kritika amerického snu
 
 ---
 

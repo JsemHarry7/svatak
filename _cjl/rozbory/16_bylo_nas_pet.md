@@ -39,11 +39,9 @@
 - Demokratické hodnoty, humanismus
 
 **Další zástupci:**
-- **Karel Čapek** — R.U.R., Válka s mloky, Bílá nemoc
-- **Eduard Bass** — Cirkus Humberto, Klapzubova jedenáctka
-- **Jaroslav Hašek** — Osudy dobrého vojáka Švejka
-- **Josef Čapek** — Povídání o pejskovi a kočičce
-- **Vladislav Vančura** — Rozmarné léto, Markéta Lazarová
+- ✅ **Karel Čapek** — R.U.R. (1920), Válka s mloky (1936), Bílá nemoc (1937) — demokratický proud, sci-fi varování před totalitou (na tvém seznamu)
+- 📚 **Vladislav Vančura** — Rozmarné léto (1926), Markéta Lazarová (1931) — meziválečný čz humor, archaizující jazyková hra; popraven nacisty 1942
+- 📚 **Zdeněk Jirotka** — Saturnin (1942) — sluha s originálními nápady, nejcitovanější česká humoristická kniha 20. století
 
 ---
 

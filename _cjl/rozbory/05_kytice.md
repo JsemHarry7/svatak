@@ -33,11 +33,9 @@
   - Návrat ke kořenům národní identity.
   - V českém kontextu: obrození národního jazyka a kultury.
 - **Další zástupci:**
-  - Karel Hynek Mácha (*Máj*) -- český romantismus
-  - Božena Němcová (*Babička*) -- české obrození, realismus
-  - Adam Mickiewicz (*Balady a romance*, *Pan Tadeáš*) -- polský romantismus
-  - bratři Grimmové (*Pohádky*) -- německý romantismus, sběratelství
-  - Johann Wolfgang Goethe, Friedrich Schiller -- německý romantismus (pozdní)
+  - 📚 Karel Hynek Mácha (*Máj*, 1836) -- vrchol českého romantismu
+  - 📚 Victor Hugo (*Bídníci*, 1862; *Chrám Matky Boží v Paříži*, 1831) -- největší francouzský romantik
+  - 📚 Alexander Sergejevič Puškin (*Evžen Oněgin*, 1823–1831) -- ruský romantismus, „ruský Mácha"
 
 ---
 

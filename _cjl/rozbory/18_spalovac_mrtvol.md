@@ -39,11 +39,9 @@
 - Atmosféra úzkosti, strachu, klaustrofobie
 
 **Další zástupci:**
-- **Bohumil Hrabal** — Ostře sledované vlaky, Příliš hlučná samota
-- **Arnošt Lustig** — Modlitba pro Kateřinu Horovitzovou, Démanty noci
-- **Josef Škvorecký** — Zbabělci
-- **Milan Kundera** — Žert
-- **Jiří Weil** — Život s hvězdou, Na střeše je Mendelssohn
+- ✅ **Bohumil Hrabal** — Ostře sledované vlaky (1965), Obsluhoval jsem anglického krále (1971/1989) — mistr „pábení", lyricko-expresivní próza (na tvém seznamu)
+- 📚 **Milan Kundera** — Žert (1967), Směšné lásky (1963–68) — intelektuální satira, ironie dějin, paměť a zrada
+- ✅ **Zdeněk Svěrák & Ladislav Smoljak** — Vyšetřování ztráty třídní knihy (1967), České nebe (2008) — Divadlo Járy Cimrmana, mystifikace, absurdní humor (na tvém seznamu)
 
 ---
 

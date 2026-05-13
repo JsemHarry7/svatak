@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Cvičení Pozicování</title>
+    <style>
+        body { margin: 0; font-family: sans-serif; height: 200vh; /* Prodloužení stránky pro scroll */ }
+        
+        /* 1. STICKY HEADER */
+        header {
+            background-color: #333333d8;
+            color: white;
+            padding: 20px;
+            /* ZDE DOPLŇ: position sticky, top, z-index (aby byl nad textem) */
+            position: sticky;
+            top: 0;
+            z-index: 1;
+        }
+
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; }
+
+        /* 2. FLOAT OBRÁZEK */
+        .float-box {
+            width: 150px;
+            height: 150px;
+            background-color: lightblue;
+            margin-right: 20px;
+            margin-bottom: 10px;
+            float: left;
+        }
+
+        /* 3. RELATIVE + ABSOLUTE (Karta autora) */
+        .author-card {
+            margin-top: 50px;
+            border: 2px solid #333;
+            padding: 20px;
+            background: #f9f9f9;
+            /* ZDE DOPLŇ: position relative (rodič) */
+            position: relative;
+        }
+
+        .badge {
+            background-color: red;
+            color: white;
+            padding: 5px 10px;
+            font-weight: bold;
+            font-size: 12px;
+            /* ZDE DOPLŇ: position absolute, umístění do pravého horního rohu (top, right) */
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+
+        /* 4. FIXED MODAL (Cookie/Info) */
+        .modal {
+            background-color: #ffeb3b;
+            padding: 20px;
+            border: 1px solid orange;
+            width: 200px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            /* ZDE DOPLŇ: position fixed, umístění vpravo dole (bottom, right), z-index */
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+
+    <header>Můj Sticky Blog (Scroluj dolů)</header>
+
+    <div class="container">
+        <h1>Hlavní nadpis článku</h1>
+        
+        <div class="float-box">Obrázek (float)</div>
+        
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in finibus ex. Nulla facilisi. Suspendisse potenti. Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est.</p>
+        <p>Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna.</p>
+        
+        <div class="author-card">
+            <div class="badge">TOP AUTOR</div>
+            <h3>Jan Novák</h3>
+            <p>Expert na CSS pozicování.</p>
+        </div>
+
+        <p>Doplňkový text pro dlouhé scrolování... Lorem ipsum dolor sit amet.</p>
+        <p>Další odstavce pro test sticky headeru...</p>
+        <p>Další odstavce pro test sticky headeru...</p>
+        <p>Další odstavce pro test sticky headeru...</p>
+    </div>
+
+    <div class="modal">
+        <strong>Upozornění:</strong><br>
+        Toto okno je fixní a zůstává zde i při scrollování.
+    </div>
+
+</body>
+</html>

@@ -37,10 +37,9 @@
   - Zájem o temné stránky lidské povahy, tabu, zlo.
   - Inspirace francouzskými symbolisty a dekadenty.
 - **Další zástupci:**
-  - Charles Baudelaire (*Květy zla*) -- francouzská dekadence
-  - Joris-Karl Huysmans (*Naruby*) -- přímá inspirace pro Obraz Doriana Graye
-  - Paul Verlaine, Arthur Rimbaud -- francouzský symbolismus
-  - Jiří Karásek ze Lvovic, Arnošt Procházka -- česká dekadence
+  - 📚 Charles Baudelaire (*Květy zla*, 1857) -- předzvěst dekadence i symbolismu, klíčový text moderní lyriky; odsouzen za obscénnost
+  - Paul Verlaine (*Saturnské básně*, 1866; *Romance beze slov*, 1874) -- francouzský symbolismus, „prokletý básník", hudebnost verše
+  - Arthur Rimbaud (*Iluminace*, 1886; *Sezóna v pekle*, 1873) -- symbolistický básník-zázračné dítě, halucinatorní obrazy
 
 ---
 

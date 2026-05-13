@@ -48,11 +48,9 @@
 
 ### Další zástupci
 
-- **Stanislav Kostka Neumann** – „Kniha lesů, vod a strání", „Nové zpěvy"
-- **Fráňa Šrámek** – „Života bído, přec tě mám rád", „Stříbrný vítr"
-- **Petr Bezruč** – „Slezské písně"
-- **Viktor Dyk** – „Milá sedmi loupežníků", „Krysař"
-- **Karel Toman** – „Torzo života", „Sluneční hodiny"
+- ✅ **Viktor Dyk** – „Krysař" (1915), „Marnost" (1898) – novoklasicismus, vlastenecký motiv (na tvém seznamu)
+- 📚 **Petr Bezruč** – „Slezské písně" (1909) – sociální poezie o útlaku Slezanů, chudobě, práci v dolech
+- **Stanislav Kostka Neumann** – „Kniha lesů, vod a strání" (1914), „Nové zpěvy" (1918) – anarchista, vitalismus, organizační střed buřičů kolem časopisu Nový kult
 
 ---
 

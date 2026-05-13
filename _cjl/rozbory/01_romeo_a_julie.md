@@ -31,11 +31,9 @@
   - V divadle: směšování tragického a komického, bohatá poetická mluva, prolínání veršů a prózy.
   - Divadlo jako hlavní forma zábavy a umění.
 - **Další zástupci:**
-  - Christopher Marlowe (*Doktor Faustus*)
-  - Ben Jonson (*Volpone*)
-  - Giovanni Boccaccio (*Dekameron*) -- italská renesance
-  - Francesco Petrarca (*Zpěvník / Canzoniere*) -- italská renesance
-  - Miguel de Cervantes (*Důmyslný rytíř Don Quijote de la Mancha*) -- španělská renesance
+  - 📚 Giovanni Boccaccio (*Dekameron*, 1353) -- italská renesance, zakladatelské dílo evropské novely
+  - Francesco Petrarca (*Zpěvník / Canzoniere*) -- italská renesance, otec evropské lyriky, standardizoval sonet
+  - 📚 Miguel de Cervantes (*Důmyslný rytíř Don Quijote de la Mancha*, 1605) -- španělská renesance, první moderní evropský román
 
 ---
 

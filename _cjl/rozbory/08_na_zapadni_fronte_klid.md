@@ -52,11 +52,9 @@
 
 ### Další zástupci
 
-- **Ernest Hemingway** – „Sbohem, armádo" (1929), „Komu zvoní hrana" (1940)
-- **Francis Scott Fitzgerald** – „Velký Gatsby" (1925)
-- **John Dos Passos** – „Tři vojáci" (1921)
-- **Jaroslav Hašek** – „Osudy dobrého vojáka Švejka" (satirický pohled na válku)
-- **Henri Barbusse** – „Oheň" (1916)
+- ✅ **Jaroslav Hašek** – „Osudy dobrého vojáka Švejka" (1921–23) – česká antimilitaristická satira, pikareskní román (na tvém seznamu)
+- 📚 **Ernest Hemingway** – „Sbohem, armádo" (1929), „Komu zvoní hrana" (1940), „Stařec a moře" (1952) – americká ztracená generace, Nobelova cena 1954
+- 📚 **Romain Rolland** – „Petr a Lucie" (1920) – francouzský pacifista, antiválečný protest, Nobelova cena 1915
 
 ---
 

@@ -38,12 +38,10 @@
 - Kombinace humoru a tragédie
 - Oslava přírody a prostých životních hodnot
 
-**Další zástupci autobiografické a memoárové prózy:**
-- **Bohumil Hrabal** — Postřižiny, Příliš hlučná samota
-- **Jan Procházka** — Kár plný krásných věcí
-- **Ludvík Vaculík** — Sekyra
-- **Arnošt Lustig** — Noc a naděje, Démanty noci (téma holocaustu)
-- **Ladislav Fuks** — Pan Theodor Mundstock
+**Další zástupci:**
+- 📚 **Arnošt Lustig** — Modlitba pro Kateřinu Horovitzovou (1964), Démanty noci (1958), Noc a naděje (1958) — sám prošel Terezínem, Osvětimí, Buchenwaldem; klíčová česká holokaustová próza
+- 📚 **Michal Viewegh** — Báječná léta pod psa (1992), Výchova dívek v Čechách (1994) — autobiografický román o rodině v normalizaci, humor + hořkost
+- 📚 **Irena Dousková** — Hrdý Budžes (1998), Oněgin byl Rusák (2006) — dětská perspektiva v normalizačním Československu, tragikomická próza
 
 ---
 
