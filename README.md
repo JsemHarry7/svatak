@@ -1,4 +1,4 @@
-# _svatak
+# svatak
 
 Maturitní příprava pro P4A — SWI / DAT / ČJL.
 Ústní zkouška: **25. 5. 2026, odpoledne.** *(Dopoledne je ještě naděje. Odpoledne už jen panika.)*
