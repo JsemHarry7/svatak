@@ -1,7 +1,7 @@
 # svatak
 
 Maturitní příprava pro P4A — SWI / DAT / ČJL.
-Ústní zkouška: **25. 5. 2026, odpoledne.** *(Dopoledne je ještě naděje. Odpoledne už jen panika.)*
+Moje ústní zkouška: **25. 5. 2026, odpoledne.** *(Dopoledne je ještě naděje. Odpoledne už jen panika.)*
 
 Mega-repo s celou moji maturitní přípravou na jednom místě: zápisky, surové materiály, plány den po dni, flashcards, praktický kód, ČJL rozbory. Všechno verzované v gitu, organizované přes [Claude Code](https://docs.claude.com/en/docs/claude-code) workflow (konvence v [`CLAUDE.md`](CLAUDE.md)).
 
