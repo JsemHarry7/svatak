@@ -1,0 +1,23 @@
+# .NET / Visual Studio
+**/.vs/
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+**/.config/dotnet-tools.json.bak
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Practice DB / runtime artifacts
+**/*.db-journal
+**/*.log

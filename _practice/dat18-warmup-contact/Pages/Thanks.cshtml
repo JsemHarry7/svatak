@@ -1,0 +1,25 @@
+﻿@page
+@model dat18_warmup_contact.Pages.ThanksModel
+@{
+}
+
+<h1>Děkujeme za zprávu, @Model.Output.Name!</h1>
+<p>Brzy se ti ozveme.</p>
+
+<h2>Rekapitulace</h2>
+<dl class="row">
+    <dt class="col-sm-3">Jméno</dt>
+    <dd class="col-sm-9">@Model.Output.Name</dd>
+
+    <dt class="col-sm-3">Email</dt>
+    <dd class="col-sm-9">@Model.Output.Email</dd>
+
+    <dt class="col-sm-3">Předmět</dt>
+    <dd class="col-sm-9">@Model.Output.Subject</dd>
+
+    <dt class="col-sm-3">Zpráva</dt>
+    <dd class="col-sm-9">@Model.Output.Message</dd>
+</dl>
+
+<a href="/Contact" class="btn btn-primary">Poslat další zprávu</a>
+<a href="/" class="btn btn-secondary">Hlavní stránka</a>
