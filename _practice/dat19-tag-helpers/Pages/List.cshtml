@@ -1,0 +1,47 @@
+@page
+@model ListModel
+@{
+    ViewData["Title"] = "Seznam přihlášek";
+}
+
+<h1>Seznam přihlášek</h1>
+
+@if (!Model.Items.Any())
+{
+    <p>Žádné přihlášky.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Jméno</th>
+                <th>Email</th>
+                <th>Kurz</th>
+                <th>Akce</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.Course</td>
+                    <td>
+                        <form method="post" class="d-inline">
+                            <!-- TODO: Doplnit asp-page-handler="Detail" a asp-route-id="@item.Id" -->
+                            <button type="submit" class="btn btn-sm btn-info" asp-page-handler="Detail" asp-route-id="@item.Id">Detail</button>
+                            <!-- TODO: Doplnit asp-page-handler="Delete" a asp-route-id="@item.Id" -->
+                            <button type="submit" class="btn btn-sm btn-danger" asp-page-handler="Delete" asp-route-id="@item.Id">Smazat</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-page="/Index" class="btn btn-secondary">Zpět na výběr kurzu</a>

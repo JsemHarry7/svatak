@@ -1,0 +1,22 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Výběr kurzu";
+}
+
+<h1>Výběr kurzu</h1>
+<p>Vyberte kurz, na který se chcete přihlásit.</p>
+
+<form method="post">
+    <div class="mb-3">
+        <label class="form-label">Kurz</label>
+        <!-- TODO: Doplnit Tag Helpers asp-for a asp-items, aby select nabízel Model.AvailableCourses -->
+        <select class="form-select" asp-for="SelectedCourse" asp-items="@(new SelectList(Model.AvailableCourses))">
+            <option value="">-- Vyberte kurz --</option>
+        </select>
+        <!-- TODO: Doplnit Tag Helper pro zobrazení validační hlášky pro SelectedCourse -->
+        <span class="text-danger" asp-validation-for="SelectedCourse"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Pokračovat</button>
+</form>

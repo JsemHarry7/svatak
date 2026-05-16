@@ -1,0 +1,38 @@
+@page "{course?}"
+@model SubscribeModel
+@{
+    ViewData["Title"] = "Přihláška";
+}
+
+<h1>Přihláška na kurz</h1>
+
+<form method="post">
+    <div class="mb-3">
+        <label class="form-label">Jméno</label>
+        <!-- TODO: Doplnit Tag Helper asp-for pro propojení s Input.Name -->
+        <input class="form-control" asp-for="Input.Name"/>
+        <!-- TODO: Doplnit asp-validation-for pro Input.Name -->
+        <span class="text-danger" asp-validation-for="Input.Name"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Email</label>
+        <!-- TODO: Doplnit asp-for pro Input.Email -->
+        <input class="form-control" asp-for="Input.Email"/>
+        <!-- TODO: Doplnit asp-validation-for pro Input.Email -->
+        <span class="text-danger" asp-validation-for="Input.Email"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Kurz</label>
+        <!-- TODO: Doplnit asp-for pro Input.Course (zde už hodnota přichází z URL přes ?course=, ale uživatel ji uvidí v inputu) -->
+        <input class="form-control" readonly asp-for="Input.Course" />
+        <span class="text-danger" asp-validation-for="Input.Course"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Přihlásit</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
