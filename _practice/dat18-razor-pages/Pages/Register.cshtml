@@ -1,0 +1,30 @@
+﻿@page "{email?}"
+@model dat18_razor_pages.Pages.RegisterModel
+@{
+}
+
+<h1>Registrace</h1>
+<form method="post">
+    <div>
+        <label asp-for="Input.Jmeno">Jméno</label>
+        <input asp-for="Input.Jmeno" />
+        <span asp-validation-for="Input.Jmeno"></span>
+    </div>
+    <div>
+        <label asp-for="Input.Prijmeni">Příjmení</label>
+        <input asp-for="Input.Prijmeni" />
+        <span asp-validation-for="Input.Prijmeni"></span>
+    </div>
+    <div>
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <div>
+        <label asp-for="Input.Kurz">Zvolený kurz</label>
+        <select asp-for="Input.Kurz" asp-items="@(new SelectList(Model.Kurzy))">
+            <option value="">-- Zvolte kurz --</option>
+        </select>
+    </div>
+    <button type="submit">Odeslat</button>
+</form>

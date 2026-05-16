@@ -58,7 +58,7 @@ Sebehodnocení: 1–10 (1 = vidím poprvé, 10 = vysvětlím komukoli)
 | 15 | ER model | 2 |  | ❌ |  |  |
 | 16 | SQL výběr a filtrování | 5 |  | ❌ |  |  |
 | 17 | REST API v ASP.NET | 2 |  | ❌ |  |  |
-| 18 | Razor Pages | 1 |  | ❌ |  |  |
+| 18 | Razor Pages | 1 | 8 | ✅ | 2026-05-17 | Sokratovský warm-up (kontaktní formulář v `_practice/dat18-warmup-contact/`) + leaked attack (registrace kurzu v `_practice/dat18-razor-pages/`). Pre 1 → post 8/10. End-to-end aplikace funguje, všech 6 keywords pokryto (handlery, binding, návratové metody, TempData, routing, validace). **Silné:** pretty URL pattern `@page "{email?}"` + `[BindProperty(SupportsGet=true)]` aplikován správně (warmup díra opravena) ⭐, PRG pattern dodržen, Kurzy re-load při chybě idiomatic, OutputModel + InputModel konzistentní napříč stránkami. Defense Q&A: pretty URL edge cases ✅, Email validace ✅⭐ (sám identifikoval chybějící EmailAddress), SupportsGet princip ✅. **Drill body:** 1) validation span pro KAŽDÉ pole (chyběl pro Kurz). 2) [EmailAddress] vedle [Required]. 3) Email idiomatic v InputModel (jeho přístup mimo InputModel funguje, ale je hacky). 4) **Validace běží JEN v OnPost** přes ModelState.IsValid, ne automaticky v OnGet. 5) Pretty URL = dva kroky (`@page "{x?}"` + `[BindProperty(SupportsGet)]`). User: "logika není složitá, ale syntaxe je hodně" — DAT zkouška docs allowed. |
 | 19 | Tag Helpers + formuláře | 1 |  | ❌ |  |  |
 | 20 | Next.js (SSR/CSR) | 1 |  | ❌ |  |  |
 | 21 | ORM | 1 |  | ❌ |  |  |
