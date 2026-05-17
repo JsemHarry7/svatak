@@ -73,6 +73,8 @@ V praxi 5 nejčastějších: **Class, Use Case, Activity, State Machine, Sequenc
 
 **Anatomie třídy** — obdélník se 3 sekcemi:
 
+![Class notation](../../_materials/swi/01/prchal/image.png)
+
 ```
 ┌──────────────────┐
 │   <<Class>>      │   ← stereotyp (volitelný)
@@ -159,6 +161,8 @@ Píše se nad/pod konce čar vztahu.
 
 Odpovídá na otázku: **"Co může uživatel se systémem dělat?"**
 
+![Use Case diagram — Online Shopping](<../../_materials/swi/01/prchal/image 5.png>)
+
 **Klíčové prvky:**
 
 | Prvek | Význam |
@@ -195,6 +199,8 @@ Kazek   │  ( Přidat do košíku   )│
 
 **Moderní verze vývojového diagramu.** Popisuje **tok aktivit** — vhodný pro business procesy a algoritmy.
 
+![Activity diagram s decision node](<../../_materials/swi/01/prchal/image 6.png>)
+
 **Klíčové elementy:**
 
 | Tvar | Význam |
@@ -226,6 +232,8 @@ Kazek   │  ( Přidat do košíku   )│
 
 Popisuje **životní cyklus objektu** — stavy a přechody.
 
+![State Machine diagram](<../../_materials/swi/01/prchal/image 7.png>)
+
 **Elementy:**
 
 | Element | Význam |
@@ -250,6 +258,8 @@ Popisuje **životní cyklus objektu** — stavy a přechody.
 ### 9. Sequence diagram (sekvenční diagram)
 
 **Časová posloupnost zpráv** mezi objekty. **Čas plyne shora dolů.**
+
+![Sequence diagram](<../../_materials/swi/01/prchal/image 8.png>)
 
 **Klíčové elementy:**
 
@@ -290,6 +300,8 @@ Popisuje **životní cyklus objektu** — stavy a přechody.
 
 **ER diagram** (Entity-Relationship) **NENÍ součástí UML** — je to samostatná notace (Chen 1976, dnes nejčastěji **Crow's Foot** notace).
 
+![ER diagram](<../../_materials/swi/01/prchal/image 10.png>)
+
 **Kardinalita v ER:**
 
 | Kardinalita | Význam |
@@ -309,6 +321,8 @@ ZAPIS (student_id FK, kurz_id FK, datum)   ← vazební tabulka
 ---
 
 ## Konkrétní příklady
+
+![Abstraktní třída + dědičnost (Building/Person + Concrete)](<../../_materials/swi/01/prchal/image 1.png>)
 
 ### Class diagram s dědičností a rozhraním
 
