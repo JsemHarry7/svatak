@@ -1,0 +1,8 @@
+--SELECT jmeno, prijmeni, vek, trida_id FROM Student WHERE trida_id = 3 ORDER BY vek DESC;
+--SELECT email FROM Student WHERE email LIKE 'k%';
+--SELECT jmeno, prijmeni, nazev FROM Student INNER JOIN Trida ON Student.trida_id = Trida.id ORDER by prijmeni;
+--SELECT jmeno, prijmeni, nazev FROM Student LEFT JOIN Trida ON Student.trida_id = Trida.id;
+--SELECT jmeno, prijmeni, nazev, skore FROM Student JOIN Trida ON Student.trida_id = Trida.id JOIN Hodnoceni ON Student.id = Hodnoceni.student_id
+--SELECT nazev, count(student.id) FROM Student JOIN Trida ON student.trida_id = trida.id GROUP BY trida_id ORDER BY count(student.id) DESC;
+--SELECT jmeno, prijmeni, round(avg(skore), 2) AS 'prumerne skore' FROM Student JOIN Hodnoceni ON Student.id = Hodnoceni.student_id GROUP BY student_id ORDER BY avg(skore) DESC LIMIT 5;
+--SELECT jmeno, prijmeni, predmet_id, round(avg(skore), 2) FROM Student JOIN Hodnoceni ON Student.id = Hodnoceni.student_id GROUP BY predmet_id AND ORDER BY avg(skore) DESC;
