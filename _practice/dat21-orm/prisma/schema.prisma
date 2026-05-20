@@ -1,0 +1,31 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Clanek {
+  id            Int      @id @default(autoincrement())
+  autorId       Int
+  titulek       String
+  obsah         String
+  vznikl        DateTime @default(now())
+  jePublikovany Boolean  @default(false)
+  autor         Autor    @relation(fields: [autorId], references: [id])
+}
+
+model Autor {
+  jmeno    String
+  prijmeni String
+  email    String   @unique
+  id       Int      @id @default(autoincrement())
+  clanky   Clanek[]
+}

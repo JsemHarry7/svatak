@@ -1,0 +1,21 @@
+{
+  "name": "dat21-orm",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "tsx src/test.ts",
+    "migrate": "prisma migrate dev",
+    "studio": "prisma studio",
+    "generate": "prisma generate"
+  },
+  "devDependencies": {
+    "prisma": "^7.8.0"
+  },
+  "dependencies": {
+    "@prisma/adapter-better-sqlite3": "^7.8.0",
+    "@prisma/client": "^7.8.0",
+    "better-sqlite3": "^12.10.0",
+    "dotenv": "^17.4.2",
+    "tsx": "^4.22.3"
+  }
+}

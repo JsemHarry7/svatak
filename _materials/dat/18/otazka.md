@@ -17,5 +17,5 @@ Vytvořte jednoduchou webovou aplikaci v ASP.NET Core pomocí Razor Pages, kter�
    - [Zobrazte] údaje z předchozího formuláře.
    - [Použijte T]empData nebo přesměrování s parametry.
 
-3. [Vysvětlete, ja]k v Razor Pages funguje:
+3. Vysvětlete, jak v Razor Pages funguje:
    <!-- pokračování bylo pod scrollem / mimo záběr -->
