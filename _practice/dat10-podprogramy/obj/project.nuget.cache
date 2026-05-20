@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "icQjubD6KYw=",
+  "dgSpecHash": "uGgX4Fg3wtQ=",
   "success": true,
   "projectFilePath": "C:\\_dev\\_svatak\\_practice\\dat10-podprogramy\\dat10-podprogramy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Harry Deimling\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.16\\microsoft.netcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\Harry Deimling\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\Harry Deimling\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\Harry Deimling\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.16\\microsoft.netcore.app.host.win-x64.9.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
