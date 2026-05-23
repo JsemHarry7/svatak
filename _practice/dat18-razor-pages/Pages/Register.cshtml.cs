@@ -7,17 +7,16 @@ namespace dat18_razor_pages.Pages
     public class RegisterModel : PageModel
     {
         public List<string> Kurzy { get; set; } = new();
-        [BindProperty]
-        public InputModel Input { get; set; } = new();
-        public class InputModel
-        {
-            [Required]
-            public string Jmeno { get; set; } = "";
-            [Required]
-            public string Prijmeni { get; set; } = "";
-            [Required]
-            public string Kurz { get; set; } = "";
-        }
+
+        [BindProperty(SupportsGet = true), Required]
+        public string? Jmeno { get; set; } = "";
+
+        [BindProperty(SupportsGet = true), Required]
+        public string? Prijmeni { get; set; } = "";
+
+        [BindProperty(SupportsGet = true), Required]
+        public string? Kurz { get; set; } = "";
+
         [BindProperty(SupportsGet = true), Required]
         public string? Email { get; set; }
         public void OnGet()
@@ -38,10 +37,10 @@ namespace dat18_razor_pages.Pages
                 return Page();
             }
 
-            TempData["Jmeno"] = Input.Jmeno;
-            TempData["Prijmeni"] = Input.Prijmeni;
+            TempData["Jmeno"] = Jmeno;
+            TempData["Prijmeni"] = Prijmeni;
             TempData["Email"] = Email;
-            TempData["Kurz"] = Input.Kurz;
+            TempData["Kurz"] = Kurz;
 
             return RedirectToPage("Confirm");
         }

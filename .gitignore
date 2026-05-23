@@ -21,3 +21,19 @@ __pycache__/
 # Practice DB / runtime artifacts
 **/*.db-journal
 **/*.log
+
+# Possibly copyrighted
+knihy-NENAHRAVAT-NA-GITHUB/*
+
+# Offline docs stažené přes docs.ps1 — velké, generované, nepatří do gitu
+_docs/
+docs-log.txt
+
+# Node modules
+**/node_modules/
+**/.next/
+
+# Practice generated files
+_practice/**/.vite/
+_practice/**/dist/
+_practice/**/build/

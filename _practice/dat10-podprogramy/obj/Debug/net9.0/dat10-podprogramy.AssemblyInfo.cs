@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dat10-podprogramy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc52ead8f1c54ee3a977258df4b0da9ccdedd4ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a61a66e91bf868db5d90e6074a611ffe2eaee0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("dat10-podprogramy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dat10-podprogramy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

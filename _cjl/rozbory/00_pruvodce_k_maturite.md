@@ -160,7 +160,7 @@ Po letech Basil Dorianovi vyčte jeho pověst. Dorian ho odvede na půdu a uká�
 
 ## 05. Kytice — Karel Jaromír Erben (1853)
 
-**Kontext.** K. J. Erben (1811–1870) byl český básník, sběratel folkloru, historik a překladatel, klíčová postava českého národního obrození. *Kytice z pověstí národních* vyšla v roce 1853. Erben na ní pracoval desítky let – jednotlivé balady publikoval časopisecky od konce 30. let 19. století. Sbírka obsahuje 13 balad (v prvním vydání 12; *Lilie* byla doplněna později).
+**Kontext.** K. J. Erben (1811–1870) byl český básník, sběratel folkloru, historik a překladatel, klíčová postava českého národního obrození. *Kytice z pověstí národních* vyšla v roce 1853. Erben na ní pracoval desítky let – jednotlivé balady publikoval časopisecky od konce 30. let 19. století. Sbírka obsahuje 13 básní (v prvním vydání 12; *Lilie* byla doplněna později), z nichž většina má baladický ráz.
 
 **Příběh a struktura sbírky.** Úvodní báseň **Kytice** rámuje celou sbírku – mrtvá matka se vrací za svými dětmi jako květina na hrobě (mateřídouška). Od ní děti dostávají celou „kytici" básní. Uvnitř jsou balady uspořádány zrcadlově tematicky:
 
@@ -499,16 +499,21 @@ V klíčové scéně Kopfrkingl jde s ženou Lakmé do koupelny krematoria pod z
 
 **Kontext.** Ota Pavel (vlastním jménem Otto Popper, 1930 Praha – 1973 Praha) byl český prozaik a sportovní novinář. Pocházel ze smíšené rodiny: otec **Leo Popper** byl Žid, matka **Hermína** Češka. Za druhé světové války byli otec a dva starší bratři deportováni do koncentračních táborů (přežili). Pavel sám jako dítě unikl díky matce. Po válce pracoval jako sportovní redaktor v Československém rozhlase a v časopise Stadion. V roce 1964 u něj propukla **maniodepresivní psychóza (bipolární porucha)**. Literárně začal tvořit právě v období nemoci – psaní bylo jeho terapií. Zemřel ve 42 letech (31. března 1973) na selhání srdce. *Smrt krásných srnců* vyšla v roce 1971, *Jak jsem potkal ryby* (doplněk tohoto světa) vyšla posmrtně 1974.
 
-**Příběh.** Kniha je **povídkový cyklus** – sedm propojených povídek z rodinné historie, především o otci **Leo Popperovi** a rybářsko-loveckém životě v okolí Luhu pod Branovem (Berounka). Povídky nejsou chronologické, proplétají období první republiky, protektorátu a krátce po válce.
+**Příběh.** Kniha je **povídkový cyklus** – v původním vydání osm propojených povídek z rodinné historie, především o otci **Leu Popperovi** a rybářsko-loveckém životě v okolí Luhu pod Branovem (Berounka). Povídky nejsou přísně chronologické, ale dohromady skládají obraz první republiky, protektorátu i pozdějších let.
 
 Otec Leo Popper je centrální postava – **žid, obchodník s vysavači Electrolux**, vášnivý rybář, lovec, karbaník, dobrodruh a sázkař. Je to typická postava pražského Žida z meziválečné doby: charizmatický, velkorysý, rozpustilý, ale v základu velmi citlivý. Má tři syny: Huga, Jiřího a malého Otu (vypravěč).
 
-Sbírka obsahuje sedm povídek: **Dlouhá míle, Nejdražší ve střední Evropě, Ve službách Švédska, Prase nebude, Kapři pro wehrmacht, Smrt krásných srnců, Králíci s moudrýma očima**. Klíčové z nich:
-- **Smrt krásných srnců** – otec pytláckým způsobem uloví dva srny, aby rodina měla co jíst během okupace. Akt lásky i zoufalství – srnce obdivuje, ale musí zachránit rodinu. Motiv **krutosti nutné z lásky**.
-- **Kapři pro wehrmacht** – otec je za protektorátu donucen lovit kapry pro Němce v rybnících, které mu byly odebrány; jeho rybářská vášeň se stává prokletím.
-- **Ve službách Švédska** – otec jako zástupce švédské firmy Electrolux s humorem podvádí zákazníky i sám sebe.
-- **Nejdražší ve střední Evropě** – o matce a otcových neuvážených nákupech.
-- **Králíci s moudrýma očima** – povídka o válce viděné dětskýma očima.
+Původní vydání z roku 1971 obsahuje osm povídek:
+- **Nejdražší ve střední Evropě** – otec kupuje rybářskou výbavu a rybník, protože věří ve velký obchod s kapry.
+- **Ve službách Švédska** – tatínek jako obchodní cestující firmy Electrolux, šarmér a improvizátor.
+- **Smrt krásných srnců** – otec pytláckým způsobem uloví srnce, aby rodina měla co jíst během okupace; akt lásky i zoufalství.
+- **Kapři pro wehrmacht** – otec tajně zachraňuje kapry, které si chtějí přivlastnit Němci.
+- **Jak jsme se střetli s Vlky** – humorné soupeření dvou rodin při rybaření.
+- **Otázka hmyzu vyřešena** – groteskně pojaté otcovy podnikatelské nápady a zlepšováky.
+- **Prase nebude!** – válečné strádání a zklamaná naděje na maso a zásoby.
+- **Králíci s moudrýma očima** – pozdní, velmi dojemná povídka o otcově stáří, nemoci a blížícím se konci.
+
+Poznámka: s knihou bývá často spojována i povídka **Běh Prahou**, která byla původně cenzurně vyřazena a do některých pozdějších souborů se doplňuje.
 
 Celou knihu prostupuje **motiv rodiny ohrožené válkou** – otec i bratři přežili tábory, ale vrátili se jiní. Pavel psal z pozice mladšího syna, který válku zažil jako dítě, z pozice „přežil jsem, ale moji milovaní nesli tíhu".
 
@@ -516,7 +521,7 @@ Celou knihu prostupuje **motiv rodiny ohrožené válkou** – otec i bratři p�
 
 **Téma a význam.** **Lyrická vzpomínka na otce a krajinu Berounky.** Pavel píše krátce, čistě, bez ozdob – ale každá věta váží. Motiv **rybolov a lov jako metafora života** (klid, trpělivost, riziko, smrt). Cyklus je autobiografický, ale estetizovaný – Pavel z realistického zážitku vytváří téměř **pohádkový obraz** otce a dětství. Vznikal v době Pavlovy duševní nemoci – píše o dětství, aby se zachránil. Díla Oty Pavla patří k nejčtenějším a nejmilovanějším textům české prózy.
 
-**Na zkoušku.** Povídkový cyklus (7 povídek), autobiografická rodinná próza. Ústřední motiv: otec Leo Popper, rybářství a lov na Berounce, přežití židovské rodiny za protektorátu. Pavel psal v době duševní nemoci – psaní jako terapie. Styl: prostý, ale hluboce lyrický; obrazová, metaforická řeč o přírodě. Paralelní sbírka: *Jak jsem potkal ryby* (1974, posmrtně).
+**Na zkoušku.** Povídkový cyklus (v původním vydání 8 povídek), autobiografická rodinná próza. Ústřední motiv: otec Leo Popper, rybářství a lov na Berounce, přežití židovské rodiny za protektorátu. Pavel psal v době duševní nemoci – psaní jako terapie. Styl: prostý, ale hluboce lyrický; obrazová, metaforická řeč o přírodě. Paralelní sbírka: *Jak jsem potkal ryby* (1974, posmrtně).
 
 **Další autoři stejné doby (česká próza 70. let, normalizace).**
 - **Bohumil Hrabal** – *Postřižiny* (1976): lyrická vzpomínka na dětství v nymburském pivovaru ve 20. letech – maminka Maryška s dlouhými vlasy, strýc Pepin a jeho nekonečné příhody, otec správce pivovaru; oslava života, smyslovost, „pábení" v čisté podobě; Menzelovo zfilmování 1981 s Magdou Vášáryovou.

@@ -111,7 +111,7 @@ Cíl: aktivně budovat českou kulturu, vědu a literaturu v češtině; dokáza
 Politická emancipace, romantický nacionalismus, vrcholná literární tvorba — vznikají díla, která jsou dodnes součástí kánonu.
 
 **Karel Jaromír Erben** ✅ (1811–1870) — sběratel lidové slovesnosti, archivář, právník
-- *Kytice* (1853) — sbírka **13 balad** čerpajících z lidové slovesnosti; téma viny, trestu, osudovosti (*Vodník*, *Polednice*, *Záhořovo lože*)
+- *Kytice* (1853) — sbírka **13 básní**, z nichž většina má baladický ráz; čerpá z lidové slovesnosti a rozvíjí téma viny, trestu a osudovosti (*Vodník*, *Polednice*, *Záhořovo lože*)
 - *Prostonárodní české písně a říkadla* (1864) — sběratelský projekt lidové poezie
 
 **Karel Hynek Mácha** (1810–1836) — největší český romantický básník; zemřel v 26 letech
@@ -142,7 +142,7 @@ Politická emancipace, romantický nacionalismus, vrcholná literární tvorba �
 ### Hlavní zástupci
 
 **Karel Jaromír Erben** ✅ (1811–1870, Čechy) — viz sekce 3
-- *Kytice* (1853) — 13 balad, lidová slovesnost, motiv viny a trestu
+- *Kytice* (1853) — 13 básní, většinou baladického rázu; lidová slovesnost, motiv viny a trestu
 
 **Karel Hynek Mácha** 📚 (1810–1836, Čechy) — vrchol českého romantismu
 - *Máj* (1836) — lyrickoepická báseň o Vilémovi, který zabije svůdce své Jarmily a je popraven; meditace o životě, smrti, přírodě, čase
