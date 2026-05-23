@@ -53,6 +53,7 @@ class Program
         }
         return max;
     }
+    
     static async Task<int> NajdiMaxParalelne(int[] pole)
     {
         int pocetJader = Environment.ProcessorCount;

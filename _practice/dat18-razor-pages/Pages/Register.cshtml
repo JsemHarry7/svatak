@@ -6,14 +6,14 @@
 <h1>Registrace</h1>
 <form method="post">
     <div>
-        <label asp-for="Input.Jmeno">Jméno</label>
-        <input asp-for="Input.Jmeno" />
-        <span asp-validation-for="Input.Jmeno"></span>
+        <label asp-for="Jmeno">Jméno</label>
+        <input asp-for="Jmeno" />
+        <span asp-validation-for="Jmeno"></span>
     </div>
     <div>
-        <label asp-for="Input.Prijmeni">Příjmení</label>
-        <input asp-for="Input.Prijmeni" />
-        <span asp-validation-for="Input.Prijmeni"></span>
+        <label asp-for="Prijmeni">Příjmení</label>
+        <input asp-for="Prijmeni" />
+        <span asp-validation-for="Prijmeni"></span>
     </div>
     <div>
         <label asp-for="Email">Email</label>
@@ -21,8 +21,8 @@
         <span asp-validation-for="Email"></span>
     </div>
     <div>
-        <label asp-for="Input.Kurz">Zvolený kurz</label>
-        <select asp-for="Input.Kurz" asp-items="@(new SelectList(Model.Kurzy))">
+        <label asp-for="Kurz">Zvolený kurz</label>
+        <select asp-for="Kurz" asp-items="@(new SelectList(Model.Kurzy))">
             <option value="">-- Zvolte kurz --</option>
         </select>
     </div>

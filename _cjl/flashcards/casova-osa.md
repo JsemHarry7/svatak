@@ -204,7 +204,7 @@ A: **Stanislav Kostka Neumann** (1875–1947) — anarchista, vitalista, pozděj
 A: Antimilitarismus, autenticita zákopu (autoři často sami vojáci), **demytizace války** (žádné hrdinství, jen utrpení), ztráta smyslu, ironie, hořkost.
 
 # Q: Které 4 autory si pamatuj ke ztracené generaci?
-A: Erich Maria Remarque (Na západní frontě klid), Jaroslav Hašek (Švejk), Ernest Hemingway (Stařec a moře, Komu zvoní hrana), Romain Rolland (Petr a Lucie).
+A: Erich Maria Remarque (Na západní frontě klid), Jaroslav Hašek (Švejk), Ernest Hemingway (Sbohem, armádo), Romain Rolland (Petr a Lucie).
 
 # MCQ: Pojem „ztracená generace" se vztahuje primárně k:
 - !Mladým Američanům v poválečné Evropě (Hemingway, Fitzgerald)
@@ -223,15 +223,15 @@ A: Strohý, věcný, „ledovcový" — 90 % skryto pod hladinou. Krátké věty
 > Literatura 1. světové války (1914–1930) reaguje na zákopovou hrůzu a ztrátu iluzí o hrdinství.
 > Znaky: antimilitarismus, autenticita zákopu, demytizace, hořkost a ironie.
 > Společenský kontext: ~17 mil. mrtvých, rozpad starých říší (Rakousko-Uhersko, carské Rusko), vznik nových států (ČSR 1918), hospodářská krize 1929.
-> Zástupci: Remarque (Na západní frontě klid), Hašek (Švejk), Hemingway (Stařec a moře), Rolland (Petr a Lucie).
+> Zástupci: Remarque (Na západní frontě klid), Hašek (Švejk), Hemingway (Sbohem, armádo), Rolland (Petr a Lucie).
 
 # CLOZE: Meziválečná česká literatura — demokratický proud trvala {{1918–1939}}; politické zázemí — {{První republika}} pod T. G. Masarykem.
 
 # Q: Jaké jsou hlavní znaky čz meziválečné literatury (demokratický proud)?
-A: Humanismus a pragmatismus, varování před totalitou, **sci-fi a utopie** (Čapek), humoristická próza, novinářská próza, avantgarda (Devětsil, poetismus, surrealismus).
+A: Humanismus a pragmatismus, varování před totalitou, **sci-fi a antiutopické tendence** (Čapek), humoristická próza, novinářská próza, avantgarda (Devětsil, poetismus, surrealismus).
 
 # Q: Které 4 autory si pamatuj k meziválečné čz literatuře?
-A: Karel Čapek (RUR, Válka s mloky, Bílá nemoc), Karel Poláček (Bylo nás pět), Vladislav Vančura (Rozmarné léto, Markéta Lazarová), Zdeněk Jirotka (Saturnin).
+A: Karel Čapek (RUR, Válka s mloky, Bílá nemoc), Karel Poláček (Okresní město, Muži v offsidu), Vladislav Vančura (Rozmarné léto, Markéta Lazarová), Ivan Olbracht (Nikola Šuhaj loupežník, Golet v údolí).
 
 # Q: Kdo zavedl slovo „robot" do světových jazyků?
 A: **Josef Čapek** (bratr Karla) vymyslel slovo „robot" (od „robota" = nucená práce). Karel ho použil v dramatu *R.U.R.* (1920). Slovo vstoupilo do všech světových jazyků.
@@ -248,9 +248,9 @@ A: **Archaizující, knižní, slavnostní** jazyk pro **komický efekt** v kont
 
 # FREE: Charakterizuj meziválečnou čz literaturu.
 > Meziválečná čz literatura (1918–1939) je literaturou První republiky pod Masarykem — demokratickým proudem.
-> Znaky: humanismus a pragmatismus, sci-fi a utopie (Čapek), humoristická próza, novinářská tradice (Lidové noviny, pátečníci).
+> Znaky: humanismus a pragmatismus, sci-fi a antiutopické tendence (Čapek), humoristická próza, novinářská tradice (Lidové noviny, pátečníci).
 > Společenský kontext: hospodářský rozkvět (Baťa, Škoda), Praha jako kulturní centrum střední Evropy, sílící hrozba fašismu (Hitler 1933), Mnichov 1938.
-> Zástupci: Čapek (RUR), Poláček (Bylo nás pět), Vančura (Rozmarné léto), Jirotka (Saturnin).
+> Zástupci: Čapek (RUR), Poláček (Okresní město), Vančura (Rozmarné léto), Olbracht (Nikola Šuhaj loupežník).
 
 # CLOZE: Meziválečnou anglosaskou prózu lze rozdělit na americkou {{ztracenou generaci}}, sociální realismus 30. let a britskou detektivku tzv. {{zlatého věku}}.
 
@@ -258,7 +258,7 @@ A: **Archaizující, knižní, slavnostní** jazyk pro **komický efekt** v kont
 A: Ztracená generace (rozčarování, hédonismus), sociální realismus 30. let (krize, outsideři), **modernismus** (proud vědomí — Joyce, Faulkner), detektivní román (uzavřená společnost, geniální detektiv, fair play).
 
 # Q: Které 4 autory si pamatuj k meziválečné anglosaské próze?
-A: John Steinbeck (O myších a lidech, Hrozny hněvu), Agatha Christie (Deset malých černoušků, Vražda v Orient Expressu), Ernest Hemingway (Stařec a moře), F. Scott Fitzgerald (Velký Gatsby).
+A: John Steinbeck (O myších a lidech, Hrozny hněvu), Agatha Christie (Deset malých černoušků, Vražda v Orient Expressu), Ernest Hemingway (Sbohem, armádo), F. Scott Fitzgerald (Velký Gatsby).
 
 # MCQ: *Velký Gatsby* (1925) je dílem:
 - Steinbecka
@@ -277,7 +277,7 @@ A: Krach na Wall Street 1929 → masová nezaměstnanost, chudoba, migrace praco
 > Meziválečná anglosaská próza (1918–1939) má 3 hlavní linie: americkou ztracenou generaci, sociální realismus 30. let, britskou detektivku zlatého věku.
 > Znaky: rozčarování a hédonismus 20. let (Fitzgerald), sociální tematika krize (Steinbeck), modernismus s proudem vědomí (Faulkner), detektivka jako hra na čtenáře (Christie).
 > Společenský kontext: Roaring Twenties → Wall Street crash 1929 → Great Depression → New Deal.
-> Zástupci: Steinbeck (O myších a lidech), Christie (Deset malých černoušků), Hemingway (Stařec a moře), Fitzgerald (Velký Gatsby).
+> Zástupci: Steinbeck (O myších a lidech), Christie (Deset malých černoušků), Hemingway (Sbohem, armádo), Fitzgerald (Velký Gatsby).
 
 # CLOZE: Antiutopie a dystopie reaguje na vznik {{totalitních režimů}} 20. století — stalinismus, fašismus, nacismus. Žánrový kořen sahá k {{utopii}} (Thomas More, 1516).
 
@@ -363,7 +363,7 @@ A: **Michal Viewegh** (1992) — autobiografický román o rodině Královců v 
 A: Severská detektivka (Nordic noir), postmoderní autobiografie a autofikce, globální tematika (migrace, identita, multikulturalismus), **žánrový crossover** (vysoká literatura míchá s thrillerem, sci-fi, fantasy).
 
 # Q: Které 4 autory si pamatuj k současné světové literatuře?
-A: Jo Nesbø (Sněhulák), Lars Kepler (Stalker), Haruki Murakami (Norské dřevo), Cormac McCarthy (Cesta).
+A: Jo Nesbø (Sněhulák), Lars Kepler (Stalker), Haruki Murakami (Kafka na pobřeží), Cormac McCarthy (Cesta).
 
 # MCQ: *Cesta* (2006), Pulitzerova cena 2007, je dílem:
 - Murakamiho
@@ -379,16 +379,16 @@ A: **Švédský pseudonym manželského páru** Alexandra Coelho Ahndoril & Alex
 > Současná světová literatura (od 90. let 20. st.) je literaturou globalizace a žánrového crossoveru.
 > Znaky: severská detektivka (Nesbø, Kepler, Mankell, Larsson), psychologický thriller, postmoderní autobiografie, magicko-realistický román (Murakami), současné dystopie (McCarthy).
 > Společenský kontext: pád komunismu 1989, internet a sociální sítě, globální krize (klimatická, finanční 2008, COVID-19).
-> Zástupci: Nesbø (Sněhulák), Kepler (Stalker), Murakami (Norské dřevo), McCarthy (Cesta).
+> Zástupci: Nesbø (Sněhulák), Kepler (Stalker), Murakami (Kafka na pobřeží), McCarthy (Cesta).
 
 # Q: Vyjmenuj svých 20 knih chronologicky podle roku vydání.
 A: 1597 R&J — 1668 Lakomec — 1836 Revizor — 1853 Kytice — 1890 Dorian Gray — 1901 Po nás ať přijde potopa — 1915 Krysař — 1920 RUR — 1921–23 Švejk — 1929 Na západní frontě klid — 1937 O myších a lidech — 1939 Deset malých černoušků — 1945 Farma zvířat — 1946 Bylo nás pět — 1949 1984 — 1965 Ostře sledované vlaky — 1967 Spalovač mrtvol / Vyšetřování — 1971 Smrt krásných srnců — 2007 Sněhulák.
 
 # Q: Které z tvých 20 knih patří do meziválečného období (1918–1939)?
-A: RUR (1920), Švejk (1921–23), Na západní frontě klid (1929), O myších a lidech (1937), Deset malých černoušků (1939). Bylo nás pět (1946 posmrtně) bylo psáno během 2. sv. války, ale duchovně sem patří.
+A: RUR (1920), Švejk (1921–23), Na západní frontě klid (1929), O myších a lidech (1937), Deset malých černoušků (1939). *Bylo nás pět* bylo vydáno až roku 1946, takže sem publikačně nepatří, i když poetikou navazuje na meziválečný demokratický proud.
 
-# Q: Kteří 3 autoři z tvých 20 knih zahynuli rukou nacistů nebo v koncentráku?
-A: **Karel Poláček** (Osvětim 1945), **Vladislav Vančura** (popraven 1942 za heydrichiády), **Karel Čapek** (zápal plic 12/1938 krátce po Mnichovu — Gestapo si pro něj přišlo posmrtně). Plus Bratr Josef Čapek zahynul v Bergen-Belsenu 1945.
+# Q: Kteří 2 autoři z tvých 20 knih zahynuli rukou nacistů nebo v koncentráku?
+A: **Karel Poláček** (zahynul roku 1945 po deportaci do koncentračního tábora) a **Vladislav Vančura** (popraven 1. června 1942 za heydrichiády). **Karel Čapek** zemřel 25. prosince 1938 na zápal plic, tedy ještě před nacistickou okupací.
 
 # MCQ: Které období BEZPROSTŘEDNĚ předchází romantismu?
 - Renesance
@@ -417,14 +417,14 @@ A: **Karel Poláček** (Osvětim 1945), **Vladislav Vančura** (popraven 1942 za
 # Q: Kdo byli „prokletí básníci" a kteří jsou klíčoví zástupci?
 A: **Poètes maudits** = skupina francouzských symbolistů s bouřlivými životy, na okraji společnosti. Klíčoví: **Charles Baudelaire** (souzen za obscénnost), **Paul Verlaine** (postřelil Rimbauda, vězněn), **Arthur Rimbaud** (psal poezii v 16–20 letech, pak literaturu opustil).
 
-# Q: Kteří 4 autoři z tvého seznamu získali Nobelovu cenu za literaturu (nebo byli nominováni)?
-A: **Ernest Hemingway** (1954), **John Steinbeck** (1962), **Romain Rolland** (1915). Karel Čapek byl několikrát nominován, ale nezískal ji.
+# Q: Kteří 4 autoři z tvého seznamu získali Nobelovu cenu za literaturu nebo na ni byli nominováni?
+A: **Ernest Hemingway** (laureát 1954), **John Steinbeck** (laureát 1962), **Romain Rolland** (laureát 1915) a **Karel Čapek** (opakovaně nominován, ale cenu nezískal).
 
 # Q: Kteří 3 ruští autoři patří k zlatému věku ruské literatury 19. století?
 A: **Alexander Sergejevič Puškin** (romantismus, *Evžen Oněgin*), **Nikolaj Vasiljevič Gogol** (kritický realismus, *Revizor*), **Lev Nikolajevič Tolstoj** (vrcholný realismus, *Anna Karenina*, *Vojna a mír*). Plus Dostojevskij a Lermontov.
 
-# Q: Která 3 období literatury spadají do 20. století?
-A: Část buřičů (přelom století), **ztracená generace + 1. sv. válka** (1914–1930), **meziválečná próza** (1918–1939, čz i anglosas.), **antiutopie/dystopie** (od 20. let), **čz nová vlna 60. let**, **normalizace + po 1989**, **současná světová** (od 90. let).
+# Q: Která období literatury z tohoto přehledu spadají do 20. století?
+A: Část buřičů (přelom století), **ztracená generace + 1. sv. válka** (1914–1930), **meziválečná próza** (1918–1939, čz i anglosas.), **antiutopie/dystopie** (od 20. let), **čz nová vlna 60. let**, **normalizace + po 1989** a zčásti i **současná světová literatura** (od 90. let 20. století).
 
 # Q: Kdo je „otec slavistiky" a v jaké fázi obrození působil?
 A: **Josef Dobrovský** (1753–1829) — 1. (obranná) fáze NO. Jako první systematicky zkoumal slovanské jazyky srovnávací metodou. *Dějiny české řeči a literatury* (1792), *Zevrubná mluvnice jazyka českého* (1809).
